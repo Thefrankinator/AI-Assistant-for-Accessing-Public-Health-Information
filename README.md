@@ -20,7 +20,7 @@ The assistant retrieves information from trusted documents and generates a clear
 
 ---
 
-# 🏗 System Architecture
+# System Architecture
 
 The system follows a **Retrieval-Augmented Generation (RAG)** architecture.
 
