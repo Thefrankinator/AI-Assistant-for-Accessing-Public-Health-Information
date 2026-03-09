@@ -1,0 +1,110 @@
+
+
+SOURCE 1: CALENDRIER_VACCINAL_2025
+
+DESCRIPTION :  Ce document présente les **recommandations vaccinales 2025** établies par la Société Marocaine d'Infectiologie et de Vaccinologie pour **harmoniser les pratiques** entre le secteur public et le milieu libéral. Il détaille un **calendrier précis** s'étendant de la naissance à l'âge adulte, couvrant des pathologies telles que la **tuberculose, l'hépatite B, la coqueluche et la poliomyélite**. Le texte souligne l'importance d'adapter les protocoles selon **l'évolution épidémiologique** locale, notamment pour le pneumocoque et le papillomavirus. Des conseils spécifiques sont également fournis pour la **protection des nourrissons**, des femmes enceintes et des populations fragiles face à la grippe ou la méningite. En somme, cet outil sert de **guide stratégique** pour optimiser la couverture immunitaire et la **santé publique** au Maroc.	
+
+{
+        "source":     "Calendrier Vaccinal 2025",
+        "institution":"Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+        "type":       "guide_recommandations",
+        "langue":     "fr",
+        "annee":      2025,
+        "theme":      "vaccination",
+        "region":     "national"
+}
+
+
+
+SOURCE 2: Fiches-Descriptives-des-maladies-infectieuses-en-milieu-scolaire-Edition-2023
+
+DESCRIPTION : Ce document constitue un **guide sanitaire exhaustif** destiné à la gestion des **maladies infectieuses** au sein des établissements scolaires marocains. Il souligne d'abord l'importance de l'école comme **milieu de vie** déterminant pour le développement et la promotion d'un **mode de vie sain** chez les jeunes. L'ouvrage détaille ensuite, sous forme de fiches techniques, diverses pathologies telles que la **méningite**, la **tuberculose** ou encore la **rougeole**. Chaque fiche précise les **modes de transmission**, les symptômes cliniques ainsi que les **protocoles d'éviction** nécessaires pour protéger la communauté scolaire. L'objectif central est de fournir aux partenaires éducatifs et de santé des **outils de prévention** clairs pour assurer la sécurité des élèves. En somme, cette édition 2023 sert de référence pour le **contrôle 
+épidémiologique** et le maintien d'un environnement d'apprentissage sécurisé.
+
+{
+        "source":     "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+        "institution":"Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+        "type":       "guide_pratique_sante",
+        "langue":     "fr",
+        "annee":      2023,
+        "theme":      "maladies_infectieuses_milieu_scolaire",
+        "region":     "national"
+}
+
+
+
+SOURCE 3: Guide-Marocain-de-Vaccinologie
+
+DESCRIPTION : Ce texte constitue un **guide pratique** sous forme de questions-réponses destiné à éclairer les professionnels de santé sur des cas cliniques complexes en **vaccinologie**. Il aborde des situations spécifiques telles que la vaccination des **nourrissons prématurés**, des femmes enceintes ou allaitantes, ainsi que des patients souffrant de pathologies chroniques ou immunitaires. Les recommandations couvrent un large spectre de vaccins, notamment contre la **grippe, le méningocoque et le rotavirus**, tout en précisant les protocoles de rappel nécessaires. L'ouvrage fournit également des conseils cruciaux sur la **sécurité vaccinale**, interdisant les mélanges de produits et fixant des délais rigoureux entre les injections de vaccins vivants. Enfin, il adapte les stratégies de protection pour les **voyageurs** et les personnes sous traitement médical spécifique, comme les anticoagulants.
+
+{
+        "source":     "Guide Marocain de Vaccinologie",
+        "institution":"Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+        "type":       "guide_pratique_clinique",
+        "langue":     "fr",
+        "annee":      2023,
+        "theme":      "vaccinologie",
+        "region":     "national"
+}
+
+
+
+SOURCE 4: Lhepatite-A-au-Maroc-Aspects-epidemiologique-facteurs-de-risque-et-prevention-2017
+
+DESCRIPTION : Cette source analyse la gestion de l'hépatite A au Maroc, en mettant l'accent sur l'importance de la prévention vaccinale pour lutter contre cette infection virale très répandue. Le texte détaille les caractéristiques des vaccins inactivés, soulignant leur efficacité durable ainsi que leur excellente tolérance chez les enfants et les adultes. L'auteur examine les différentes stratégies de vaccination, comparant l'immunisation systématique des jeunes enfants aux programmes ciblant uniquement les groupes à haut risque. Une évaluation économique démontre que le coût de la vaccination est nettement inférieur aux dépenses liées aux hospitalisations et aux complications de la maladie. En conclusion, l'étude préconise une généralisation de la vaccination dès l'enfance tout en insistant sur l'amélioration cruciale de l'hygiène sanitaire et de l'accès à l'eau potable.
+
+{
+        "source":     "L’hépatite A au Maroc : Aspects épidémiologiques, facteurs de risque et prévention",
+        "institution":"Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+        "type":       "rapport_scientifique_medical",
+        "langue":     "fr",
+        "annee":      2017,
+        "theme":      "hepatite_A",
+        "region":     "national"
+}
+
+
+SOURCE 5: Tuberculose-chez-lenfant-et-ladolescent-2025-Guide-de-diagnostic-et-de-prise-en-charge-pour-les-professionnels-de-la-sante
+
+DESCRIPTION : Ce guide médical détaille les protocoles de diagnostic et de prise en charge de la tuberculose chez les enfants et adolescents, particulièrement dans les zones à forte incidence. Il souligne que, bien que curable, la maladie reste sous-détectée chez les plus jeunes, nécessitant une évaluation rigoureuse de l'historique des contacts, de la croissance et du statut VIH. Le document précise les méthodes de confirmation bactériologique, telles que les tests moléculaires rapides et les prélèvements gastriques ou fécaux adaptés aux patients pédiatriques. En complément, l'imagerie thoracique joue un rôle crucial pour identifier les formes pulmonaires et extrapulmonaires, ces dernières étant prédominantes chez les mineurs au Maroc. L'objectif principal est d'outiller les professionnels de santé pour une détection précoce afin d'améliorer les résultats cliniques grâce à des traitements spécifiques. Les données épidémiologiques montrent une évolution de la maladie, incitant à une vigilance accrue malgré la baisse globale de la mortalité infantile liée à cette infection.
+
+{
+        "source":     "Tuberculose chez l’enfant et l’adolescent : Guide de diagnostic et de prise en charge pour les professionnels de la santé",
+        "institution":"Ministère de la Santé et de la Protection Sociale (PNLAT)",
+        "type":       "guide_pratique_sante",
+        "langue":     "fr",
+        "annee":      2025,
+        "theme":      "tuberculose_infantile",
+        "region":     "national"
+}
+
+SOURCE 6: Loi n° 116-12
+
+DESCRIPTION : Ces documents officiels présentent le cadre juridique régissant les chambres professionnelles et l'assurance maladie obligatoire pour les étudiants au Maroc. La Loi n° 24-15 organise le fonctionnement de ces chambres, précisant les modalités de transfert de biens et de personnel lors de restructurations administratives. Parallèlement, la Loi n° 116-12 établit un système de couverture médicale dédié aux étudiants, définissant les critères d'éligibilité, tels que l'âge et l'inscription universitaire. Ce texte détaille également le financement du régime, les mécanismes d'immatriculation et les sanctions prévues en cas de non-respect des obligations légales. Enfin, la gestion de cette protection sociale est confiée à la Caisse nationale des organismes de prévoyance sociale, garantissant ainsi un suivi administratif rigoureux.
+
+
+{
+        "source":     "Loi n° 116-12 relative au régime de l'assurance maladie obligatoire de base des étudiants",
+        "institution":"Secrétariat Général du Gouvernement (Bulletin Officiel)",
+        "type":       "loi_reglementaire",
+        "langue":     "fr",
+        "annee":      2015,
+        "theme":      "assurance_maladie_etudiants",
+        "region":     "national"
+}
+
+
+SOURCE 7: loi_98-15_amo_independants_francais
+
+DESCRIPTION : Ce document officiel présente la loi n° 98-15, qui instaure un régime d’assurance maladie obligatoire (AMO) pour les travailleurs indépendants et les professions libérales au Maroc. Le texte précise que la gestion de cette couverture est confiée à la Caisse nationale de sécurité sociale (CNSS) et définit les modalités strictes d'immatriculation ainsi que les conditions de financement par cotisations. Il détaille également les obligations de déclaration des revenus et les sanctions pécuniaires prévues en cas de non-respect des procédures administratives ou de retard de paiement. Enfin, la loi établit les règles de gouvernance du conseil d'administration dédié à ce régime, garantissant ainsi une protection sociale structurée pour les non-salariés.
+
+{
+        "source":     "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+        "institution":"Secrétariat Général du Gouvernement (Bulletin Officiel)",
+        "type":       "loi_reglementaire",
+        "langue":     "fr",
+        "annee":      2018,
+        "theme":      "assurance_maladie_independants",
+        "region":     "national"
+}
+
