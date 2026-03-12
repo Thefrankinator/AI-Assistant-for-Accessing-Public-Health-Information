@@ -1,9 +1,9 @@
-import pytesseract
-from pdf2image import convert_from_path
-from pathlib import Path
-from langchain_community.document_loaders import PyPDFLoader
-from langchain_core.documents import Document   
-import pdfplumber
+import pytesseract # pyright: ignore[reportMissingImports]
+from pdf2image import convert_from_path # pyright: ignore[reportMissingImports]
+from pathlib import Path 
+from langchain_community.document_loaders import PyPDFLoader # pyright: ignore[reportMissingImports]
+from langchain_core.documents import Document   # pyright: ignore[reportMissingImports]
+import pdfplumber # pyright: ignore[reportMissingImports]
 
 
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
@@ -80,6 +80,7 @@ def load_source_1() -> list:
             "page_number": page.metadata.get("page", None)
     }    
     
+    doc = source_1.pop(0)
     return source_1
 
 
