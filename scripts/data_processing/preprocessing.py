@@ -1,6 +1,6 @@
 from load import *
 import re
-
+import json
 
 
 def clean_source_1() -> list:
@@ -241,3 +241,50 @@ def clean_source_6() -> list:
 
 
 
+
+# save cleaned documents in the folder \data\preprossed\cleaned
+
+with open(r"../../data/preprossed/cleaned/cleaned_source_1.txt", "w",encoding="utf-8") as f:
+    for doc in clean_source_1():
+        f.write(doc.page_content + "\n")
+        
+
+with open(r"../../data/preprossed/cleaned/cleaned_source_2.txt", "w",encoding="utf-8") as f:
+    for doc in clean_source_2():
+        f.write(doc.page_content + "\n")
+
+with open(r"../../data/preprossed/cleaned/cleaned_source_3.txt", "w",encoding="utf-8") as f:
+    for doc in clean_source_3():
+        f.write(doc.page_content + "\n")
+        
+with open(r"../../data/preprossed/cleaned/cleaned_source_4.txt", "w",encoding="utf-8") as f:
+    for doc in clean_source_4():
+        f.write(doc.page_content + "\n")
+        
+with open(r"../../data/preprossed/cleaned/cleaned_source_5.txt", "w",encoding="utf-8") as f:
+    for doc in clean_source_5():
+        f.write(doc.page_content + "\n")
+
+with open(r"../../data/preprossed/cleaned/cleaned_source_6.txt", "w",encoding="utf-8") as f:
+    for doc in clean_source_6():
+        f.write(doc.page_content + "\n")
+
+# save the metatdata of each source in a json file
+
+with open(r"../../data/preprossed/cleaned/metadata_source_1.json", "w", encoding="utf-8") as f:
+    json.dump([clean_source_1()[0].metadata], f)
+
+with open(r"../../data/preprossed/cleaned/metadata_source_2.json", "w", encoding="utf-8") as f:
+    json.dump([clean_source_2()[0].metadata], f)
+
+with open(r"../../data/preprossed/cleaned/metadata_source_3.json", "w", encoding="utf-8") as f:
+    json.dump([clean_source_3()[0].metadata], f)
+
+with open(r"../../data/preprossed/cleaned/metadata_source_4.json", "w", encoding="utf-8") as f:
+    json.dump([clean_source_4()[0].metadata], f)
+
+with open(r"../../data/preprossed/cleaned/metadata_source_5.json", "w", encoding="utf-8") as f:
+    json.dump([clean_source_5()[0].metadata], f)
+
+with open(r"../../data/preprossed/cleaned/metadata_source_6.json", "w", encoding="utf-8") as f:
+    json.dump([clean_source_6()[0].metadata], f)

@@ -1,0 +1,229 @@
+La prévention vaccinale  
+L'essentiel :
+
+En 1983, un vaccin vivant atténué est développé. Plusieurs études ont montré sa tolérance et son efficacité, Son immunogénéicité est tellement haute que 95% des enfants de plus de 2 ans développent des anticorps anti-hépatite virale À à 1 mois après la primo-injection. Les pays à revenu intermédiaire retireraient le plus grand avantage des programmes de vaccination à grande échelle contre le VHA.
+L'efficacité de la vaccination dans les populations d'enfants exposées au risque d’hépatite À a été démontrée dans un certain nombre de régions du monde.
+
+D'autres études sont nécessaires pour déterminer le cout d'une vaccination de routine par le vaccin anti-hépatite virale À avec des étude socio-économiques en prenant compte le cout d'une infection-maladie hépatite virale À que ça soit pour son hospitalisation, pour les formes fulminantes et pour le retentissement scolaire des étudiants et professionnelle des parents. Par ailleurs, un intérêt particulier doit être porté aux groupes à risques qui nécessitera désormais une réflexion à part.
+
+Les recommandations faites par les autorités sanitaires dans la plupart des pays ont un caractère assez restrictif. Il y a donc lieu de se demander si une vaccination universelle contre l'hépatite À est indiquée. Pour prendre une décision à cet égard, il faut disposer de renseignements sur le taux d'immunité dans la population. Dans les pays en voie de développement ou l'hépatite À est hyperendémique, la vaccination de masse des très jeunes enfants est la clé de contrôle de l'infection. Cependant,
+dans ces pays, des obstacles comme le coût du vaccin qui n'est pas négligeable, l'absence de structures, la présence de problèmes sanitaires plus urgents font obstacle à sa généralisation.
+
+Pour déterminer l'âge de la vaccination, il faut balancer entre les avantages de la vaccination à un âge précoce et un âge  
+plus tardif pour démarrer la vaccination. Le faible taux des anticorps est vu à 12 mois suggérant la possibilité de vacciner dès cet âge. Les études cliniques à cet âge suggèrent une bonne réponse et une meilleure tolérance.
+
+Le coût de la stratégie vaccinale systématique versus vaccina- tion uniquement chez les sujets non immuns après sérologie,
+est moins important dans la population ou la séroprévalence est inférieure à 30%, ce qui est le cas dans les pays industrialisés chez les sujets de moins de 50 ans.
+
+Finalement, la stratégie vaccinale est à définir suivant le contexte épidémiologique, les moyens disponibles et les objectifs de santé publique. Dans les pays de forte endémicité pour le virus de l'hépatite À, l'immunité collective développée dès l'enfance rend inutile tout programme vaccinal en l'absence de fourniture d'eau potable et d'assainissement.
+Avec le développement, la réceptivité croissante des populations à l'infection par le VHA incite à vacciner en priorité les individus les plus exposés, ce qui n'empêche pas une circulation plus au moins occulte du VHA. Une stratégie maximaliste, visant l'éradication de l'hépatite À, peut aussi être discutée ; elle passerait par une vaccination généralisée des jeunes enfants, avant l'âge de la vie en collectivité.
+
+Pourquoi vacciner contre l'hépatite A ?
+
+Risque d'infection : Chez les sujets non immuns, il est fonction de l'exposition aux sources de contamination. Les séjours en zone de haute endémicité concentrent plusieurs facteurs de risque difficiles à éviter totalement au cours d'un voyage :
+contacts avec des individus excréteurs de virus, consommation d'eau et d'aliments non protégés des souillures d'origine fécale.
+Certaines professions sont à risque, auprès des nourrissons et des jeunes enfants, dans les instituts médico-éducatifs, les écoles et les crèches, ou encore au contact des eaux usées dans les égouts et les stations d'épuration. D'autres professions  
+peuvent être dangereuses pour la communauté, notamment celles de l'industrie alimentaire et de la restauration collective.
+En raison d'une exposition à certains modes de transmission du VHA, les hémophiles, les polytransfusés, les toxicomanes et les homosexuels sont aussi à considérer comme des personnes à risque.
+
+Risque d’hépatite A sévère : L'âge conditionne l'expression clinique et la gravité des infections par le VHA. Inapparentes dans 70 % des cas avant 6 ans, elles sont symptomatiques dans
+80 à 90 % des cas chez l'adulte. De même, la sévérité de la maladie s'accentue avec l'âge : le taux de létalité global est de
+0,3 %, mais il dépasse 1,8 % après 50 ans. Toutefois, l'hépatite À peut être grave à tout âge, 25 % des hépatites aiguës graves de l'enfant étant dues au VHA. Toute hépatopathie chronique prédispose au risque de développer une hépatite fulminante en cas de surinfection par le VHA.
+
+Raisons collectives 
+Vaccins contre l'hépatite A :
+
+Différentes voies ont été explorées pour le développement d'un vaccin contre l'hépatite A. Les difficultés d'obtention d'un vaccin vivant suffisamment atténué ou de subunités vaccinales suffisamment immunogènes ont fait préférer la préparation d'un vaccin conventionnel, entier et inactivé, rendue possible par l'adaptation de souches de VHA à la culture sur cellules diploïdes humaines.
+
+Vaccins actuellement disponibles 
+Le premier vaccin mis sur le marché en 1992 sous le nom d'Havrix (SmithKLine Beecham) était préparé à partir de la souche HM175 sur cellules MRC-5, inactivé par le formol et adsorbé sur hydroxyde d'aluminium. La formulation adultes, à
+720 unités enzyme-linked immunosorbent assay (Elisa), était administrée selon un schéma M0, M1, M6. Elle a été remplacée par un dosage à 1 440 unités Elisa, administré en deux  
+injections espacées de 6 à 12 mois. Parallèlement, un vaccin pour enfants titrant 360 unités Elisa et nécessitant trois injections a été remplacé par une formulation à 720 unités
+Elisa utilisable en deux injections. Le vaccin Avaxim (Pasteur
+Mérieux MSD), préparé de façon similaire à partir de la souche
+GBM, est commercialisé depuis 1997. Le vaccin Vaqta® (Merck),
+disponible depuis 1999, est développé à partir de la souche CR
+326F.
+
+Immunogéhnicité 
+Tous les vaccins contre l'hépatite À mis sur le marché ont fait la preuve d'une très forte immunogénicité.
+
+Les concentrations d'anticorps anti-VHA obtenues après vaccination étant 10 à 100 fois inférieures aux concentrations observées après infection naturelle, des techniques plus sensibles et plus spécifiques que celles utilisées pour le diagnostic, comme le radio-immunofocus inhibition test (RIFIT), ont dû être mises au point pour titrer les anticorps neutralisants. Ces titrages sont effectués par rapport à un standard de l'OMS et exprimés en milliunités internationales par millilitre (mUl/ml). Le seuil de protection a été fixé par consensus à 20 mUI/mI à partir d'essais de neutralisation in vitro, d'expérimentations sur chimpanzés et d'observations cliniques.
+
+Chez l'enfant et l'adolescent, les taux de séroconversion après la première dose vaccinale sont proches de 100 %. Bien que linnocuité des formulations pédiatriques autorise la vaccination des nourrissons, une diminution de 60 à 90 % des moyennes géométriques des titres (MGT) est observée chez les enfants possédant des anticorps maternels anti-VHA. La disparition de ces anticorps s'échelonne entre 6 mois et 1 an.
+Toutefois, leur présence ne compromet pas l'efficacité d'une primo-vaccination entre 6 et 7 mois.
+
+Chez les patients infectés par le VIH, le vaccin reste immunogène tant que le taux des lymphocytes CD4 est  
+supérieur à 200/ul et protège encore 64 % des patients ayant moins de 200 CD4. La vaccination est également efficace en cas de maladie chronique du foie, les taux de séroconversion dépassant 94 % malgré des MGT moins élevées que chez les sujets sains.
+
+L'ensemble de ces données confirme l'excellente immunogénicité des vaccins contre l'hépatite À et rend inutile tout contrôle sérologique d'efficacité vaccinale, d'autant plus que les trousses de diagnostic commercialisées pour la détection des anticorps anti-VHA ne sont pas adaptées pour le titrage des anticorps postvaccinaux.
+
+Tolérance 
+L'expérience acquise après plusieurs millions de vaccinations contre l'hépatite À confirme la bonne tolérance des vaccins actuels. Chez l'enfant, l'incidence des réactions indésirables est comparable à celle observée avec les autres vaccins pédiatriques. Ce sont surtout des réactions locales liées à la présence d'’hydroxyde d'aluminium (douleur, rougeur,
+induration au point d'injection), résolutives en 2 jours, dont l'intensité diminue avec la répétition des injections. Des réactions générales (fièvre, céphalées, nausées, vertiges,
+asthénie, perte d'appétit) sont parfois observées. Beaucoup plus rares, des effets adverses sévères ont été signalés à la vaccinovigilance : réaction anaphylactique, syndrome de
+Guillain-Barré, neuropathie du plexus brachial, myélite transverse, sclérose en plaques, encéphalopathie, érythème multiple. Survenant le plus souvent chez l'adulte après polyvaccination, leur incidence n'est pas significativement plus élevée chez les individus immunisés contre l'hépatite A que chez les témoins. Aucune relation de cause à effet n'a été établie à ce jour.
+
+Efficacité
+Les vaccins entiers inactivés confèrent une immunité durable contre les manifestations cliniques de l'infection par le VHA.
+ 
+Comment vacciner contre l'hépatite A ?
+
+Mode d'administration 
+Les vaccins inactivés contre l'hépatite À sont administrés par voie intramusculaire, de préférence dans le muscle deltoïde.
+Avant l'âge de 2 ans, on utilise le quadriceps, au niveau de la partie antérolatérale de la cuisse. L'injection dans le muscle fessier et l'injection intradermique, moins immunogènes, sont déconseillées. En cas de risque hémorragique élevé (hémophilie),
+la voie sous-cutanée peut être utilisée. Les présentations commerciales sont des seringues pré-remplies qu'il faut agiter avant emploi afin de bien homogénéiser la suspension de vaccin. Elles sont conservées au réfrigérateur entre + 2 °C et +
+8 Cet ne doivent jamais être congelées.
+
+Posologie 
+La vaccination consiste en l'administration de deux doses espacées de 6 à 12 mois suivant les recommandations des fabricants. Il est déconseillé de réduire cet intervalle à moins de 6 mois. En revanche, on peut l'augmenter sans inconvénient jusqu'à 18 mois, voire plus.
+
+Les vaccins contre l'hépatite A ne doivent pas être mélangés à d'autres vaccins, mais on peut les administrer simultanément en utilisant une seringue et une aiguille séparées, dans un site corporel différent.
+
+En l'absence de norme internationale pour quantifier l'antigène VHA dans les différents vaccins inactivés, on ne peut affirmer que ces vaccins soient complètement interchangeables.
+Toutefois, des réponses anamnestiques ont été obtenues avec les vaccins.
+
+Contre-indications 
+La notion d'allergie ou d'hypersensibilité à l'un des constituants du vaccin, en particulier à l'alumine, ou la survenue d’une réaction anaphylactique documentée après une dose antérieure du vaccin sont les seules contre-indications à la vaccination contre l'hépatite A. Son innocuité chez la femme  
+enceinte ou allaitante n'a pas été expérimentalement démontrée, mais rien ne permet de la mettre en doute avec les vaccins inactivés. Les sujets immunodéprimés ou porteurs d'hépatopathies chroniques peuvent être vaccinés sans précaution particulière.
+
+La vaccination : généralisée ou limitée à des populations à risque ?
+
+La vaccination généralisée est remarquablement efficace quand elle est ciblée sur le jeune enfant. L'exemple le plus évident est celui d'Israël. En vaccinant les enfants entre 18 et
+24 mois, une réduction spectaculaire du taux de transmission de l'hépatite À a été observée en 2 ans chez l'enfant comme chez l'adulte, y compris chez les sujets de plus de 50 ans. Aux
+États-Unis, la vaccination dans les états ayant une incidence de la maladie supérieure à la moyenne nationale à partir de
+1999 à entraîné une diminution très importante de la transmission. Depuis 2006 une vaccination généralisée des enfants et des adolescents américains est recommandée. En
+Catalogne, les enfants sont vaccinés à l'école avant 10 ans avec un vaccin combiné Hépatite À + Hépatite B.
+
+Que recommande l'OMS pour les vaccins anti-hépatite A ?
+Les vaccins anti-hépatite À actuellement disponibles sont tous de bonne qualité et conformes aux recommandations de l'OMS. Leur administration à des enfants de <1 an n'est toutefois pas homologuée car, dans ce cas, leur efficacité est variable en raison des anticorps maternels présents dans l'organisme de ces nourrissons. Bien que les vaccins actuels confèrent une protection de longue durée après l'administration de 2 doses injectées à un intervalle de 6-18 mois, une seule dose permet également d'obtenir une immunité élevée. La durée de la protection conférée par l'administration d'une dose unique est donc un point qu'il est recommandé d'étudier.
+La planification de programmes de vaccination à grande  échelle contre l'hépatite À doit comprendre une analyse  
+échelle contre l'hépatite À doit comprendre une analyse soignée des coûts, des avantages, de la viabilité des diverses stratégies de prévention pouvant s'appliquer, ainsi qu'une évaluation des conséquences épidémiologiques éventuelles à long terme avec différents niveaux de couverture.
+
+Dans les pays de forte endémicité, l'exposition au HAV est pratiquement universelle avant l’âge de 10 ans. L'hépatite A sous sa forme clinique est alors en général un problème mineur de santé publique qui ne justifie pas d'entreprendre la vaccination à grande échelle.
+
+Dans les pays développés, où l'endémicité est faible,
+l'incidence peut rester élevée dans certains groupes à risque pour lesquels la vaccination contre l'hépatite À pourra alors être recommandée. Font partie de ces groupes: les consomma- teurs de drogues par injection, les homosexuels, les personnes se rendant dans des zones à haut risque et certains groupes ethniques ou religieux. Il faut noter cependant que les programmes de vaccination ciblés sur des groupes spécifiques à haut risque peuvent n'avoir qu'un impact réduit sur l'incidence nationale de la maladie.
+
+Dans les régions d'endémicité moyenne, où la transmission se fait d'une personne à l'autre dans l'ensemble de la population,
+avec souvent des flambées épidémiques périodiques, on pourra lutter contre l'hépatite À à l'aide de programmes étendus de vaccination.
+
+En situation de flambée épidémique, les recommandations pour la vaccination dépendent de l'épidémiologie de l'hépa- tite À dans la communauté et de la possibilité de mettre en œuvre rapidement une programme étendu de vaccination.
+On a observé que les chances de succès étaient les meilleures quand la flambée touchait des communautés de taille réduite,
+vivant en vase clos, quand la vaccination pouvait démarrer à un stade précoce de la flambée et quand on obtenait une couverture élevée pour des cohortes d'âge divers. L'éducation  
+sanitaire et l'amélioration des systèmes d'assainissement doivent accompagner les efforts de vaccination.
+
+Bien que le fardeau de morbidité imputable à l'hépatite A soit énorme dans de nombreux pays, la décision d'inclure le vaccin dans les programmes de vaccination systématique des enfants doit se prendre en tenant compte de toutes les vaccinations possibles, contre l'hépatite B, Haemophilus influenzae type b, la rubéole et la fièvre jaune, ainsi que la vaccination anti-pneumococcique dans un proche avenir, car toutes auront probablement de grandes répercussions sur la santé publique.
+
+A partir de quel âge peut-on vacciner les enfants au Maroc contre l'hépatite À ?
+
+Dans les pays en voie de développement où l'hépatite À est hyperendémique, la vaccination de masse des très jeunes enfants est la clé de contrôle de l'infection. Cependant, dans ces pays, il y a des freins comme le coût du vaccin qui n'est pas négligeable, l'absence de structures, la présence de problèmes sanitaires plus urgents font obstacle à sa généralisation.
+
+Pour déterminer l'âge de la vaccination, il faut balancer entre les avantages de la vaccination à un âge précoce et un âge plus tardif pour démarrer la vaccination. Le faible taux des anticorps est vu à 12 mois suggérant la possibilité de vacciner dès cet âge. Les études cliniques à cet âge suggèrent une bonne réponse et une meilleure tolérance.
+
+Le coût de la stratégie vaccinale systématique versus vaccination, uniquement chez les sujets non immuns après sérologie, est moins important dans la population où la séroprévalence est inférieure à 30%, ce qui est le cas dans les pays industrialisés chez les sujets de moins de 50 ans.
+
+Finalement, la stratégie vaccinale est à définir suivant le contexte épidémiologique, les moyens disponibles et les objectifs de santé publique. Dans les pays de forte endémicité  
+pour le virus de l'hépatite À, l'immunité collective développée dès l'enfance rend inutile tout programme vaccinal en l'absence de fourniture d'eau potable et d'assainissement.
+Avec le développement, la réceptivité croissante des populations à l'infection par le VHA incite à vacciner en priorité les personnes les plus exposées, ce qui n'empêche pas une circulation plus au moins occulte du VHA. Une stratégie maximaliste, visant l'éradication de l'hépatite À, peut aussi être discutée; elle passerait par une vaccination généralisée des jeunes enfants, avant l’âge de la vie en collectivité.
+
+Les campagnes systématiques menées dans les pays de forte endémicité ont ciblé essentiellement l'enfant ce qui permettra de réduire le taux d'incidence même chez l'adulte non vacciné.
+
+Quelle politique vaccinale pour l'hépatite A ?
+
+Le vaccin n'est pas obligatoire, mais il est recommandé pour protéger l'individu à risque (toute personne non immune exposée aux sources de contamination lors de ses activités professionnelles ou de ses loisirs). Les séjours en zone de haute endémicité concentrent les principaux facteurs de risque (consommation de fruits de merfhuîtres], ou contact avec des infectés [crèche, jouets contaminés, ou eau contaminé], inondations, nappes phréatiques contaminés....).
+Le risque de contracter une forme grave d'hépatite A doit aussi être pris en considération. La sévérité de la maladie s'accentue avec l'âge : la létalité globale est de 0,3%, mais dépasse 2% après 40 ans. Il existe aussi des formes graves chez l'enfant : 25% des hépatites aiguës graves de l'enfant sont dues au VHA. Un autre facteur de gravité de l'hépatite À semble être l'existence d'une hépatopathie sous-jacente chez les patients atteints d'hépatite chronique B ou C.
+
+La diminution de l'incidence de l'hépatite À dans une population,
+voire son élimination, constitue un objectif plus large qui peut se justifier en termes de coût/bénéfice.
+ 
+A qui peut-on recommander l'hépatite A ?
+La vaccination contre l'hépatite A est recommandée :
+- pour les sujets professionnellement exposés à un risque de contamination
+- personnels des crèches, des internats des établissements et services pour l'enfance et la jeunesse handicapées, personnels de traitement des eaux usées, personnels impliqués dans la préparation alimentaire en restauration collective
+- patients infectés chroniques par le virus de l'hépatite B ou l'hépatite C
+Une réflexion est actuellement menée sur une extension des indications dans des situations épidémiologiques particu- lières (vaccination des proches autour d'un cas, vaccination d'une collectivité au cours d'un phénomène épidémique).
+Dans notre contexte, les indications devraient être plus larges.
+
+Les doses de rappel sont-elles nécessaires ?
+
+Comme on ne connaît pas la durée de la protection conférée par le vaccin, on ignore s'il est nécessaire d'administrer des doses de rappel additionnelles après les deux doses de vaccin contre l'hépatite À, mais des modèles cinétiques de déclin des anticorps semblent indiquer que des titres protecteurs d'anticorps devraient persister pendant au moins 20 ans. On a démontré l'existence d’une mémoire immunologique dans un certain nombre d'études, ce qui impliquerait que la protection peut persister même lorsque les anticorps ne sont plus mesurables, comme c'est le cas du vaccin contre l'hépatite B.
+Si des études futures révèlent qu'il est nécessaire d'administrer des doses de rappel, de nouvelles recommandations seront alors présentées.
+
+Quelle est l'efficacité du vaccin de l'hépatite À en cas de maladie chronique du foie ?
+
+Des études ont montré que le titre des anticorps anti-VHA était significativement plus bas chez les sujets ayant une  
+hépatopathie chronique. Cependant 95% de ces patients (contre 98% chez les sujets sains) ont présenté une séroconversion. Les malades ayant une cirrhose décompensée présentaient des taux de séroconversion allant de 48 à 65% alors les taux de séroconversion variaient de 0 à 26% chez les malades ayant reçu une transplantation hépatique.
+
+Quelle est la place de la prophylaxie post-exposition au
+VHA ?
+
+Aux Etats-Unis, le CDC conseille la réalisation d'une prophylaxie à l’aide d'immunoglobulines dans les 15 jours qui suivent l'exposition au VHA. L'administration de 0,02 ml/kg en IM dans les 15 jours préviendrait la maladie dans 85% des cas. Une injection plus tardive ne permet pas de prévenir la maladie mais elle atténuerait la sévérité des symptômes et la durée de la maladie. Il semblerait qu'actuellement, l'efficacité des immunoglobulines est extrêmement variable d'un lot à l’autre et dépend du taux d'anticorps anti-VHA présents.
+
+Au Maroc, aucune préparation d'immunoglobulines n'est disponible pour la prophylaxie de l'hépatite A. L'intérêt d’une vaccination après une exposition au VHA est discuté. Les études de vaccination de masse lors d'épidémies d'hépatite À ont démontré l'efficacité du vaccin dans cette situation. Une étude randomisée comparant la vaccination versus l’abstention a été réalisée chez 351 contacts intra-familiaux de 146
+malades ayant fait une hépatite A. Le vaccin a été administré dans les 8 jours après l'apparition de la maladie chez le malade. Le pourcentage d'hépatite A était de 13,3% (10/75) dans le groupe non vacciné et de 2,8% dans le groupe vacciné (2/71). L'efficacité de la vaccination était de 79%. Ces résultats mériteraient d'être confirmés par d'autres études randomisées qui devraient par ailleurs déterminer la période pendant laquelle la réalisation d'une vaccination reste efficace.
+ 
+Annexe 1 : Fiche technique de la vaccination 
+Schéma vaccinal :
+
+Le schéma vaccinal de deux doses de vaccin anti-hépatite A inactivé est appliqué dans de nombreux pays, mais d'autres peuvent envisager d'inclure une dose unique dans leurs calendriers vaccinaux.
+
+Le schéma vaccinal comporte une injection intramusculaire en primo-vaccination suivie d’un rappel entre 6 mois et 12
+mois (possible jusqu'à 36 mois voire 5 ans). L'injection intramusculaire est pratiquée de préférence dans le muscle deltoïde chez l'adulte et, chez l'enfant de moins de 2 ans, dans la partie antéro-latérale de la cuisse.
+
+Conservation :
+
+Le vaccin doit être conservé entre +2 Cet +8 Cetne doit pas être congelé.
+
+Effets secondaires :
+
+Concernant les effets indésirables, la presque totalité des réactions signalées sont bénignes et disparaissent en moins de vingt-quatre heures. Les douleurs au site d'injection prédominent (10 %). Des réactions systémiques peuvent également survenir : céphalées, fièvre, nausées, vomissements,
+diarrhée, perte d'appétit. Les réactions allergiques de type anaphylactique sont rares.
+
+Le vaccin est contre-indiqué en cas d'hypersensibilité à l'un de ses constituants ou à la suite d'une injection antérieure du vaccin. La vaccination doit être différée en cas de maladie ou d'infection fébrile. Elle n'est pas recommandée chez les enfants âgés de moins d'un an.
+
+Les différents vaccins disponibles au Maroc sont rapportés dans le tableau | ci-dessous :
+ 
+Annexe 2 : L'estimation de l'impact économique de la  vaccination 
+Cette estimation inclue des coûts directs et des coûts indirects.
+Les coûts directs sont liés à :
+- la fabrication propre du vaccin
+- la réalisation concrète de la vaccination : consultation médicale,
+test de diagnostic...
+- la maladie suite à la non vaccination : consultations médicales, hospitalisations, tests utilisés pour le diagnostic
+- au patient : soins à domicile, éducation du patient,
+instauration d'un régime
+- des éléments non « monnayables » : la douleur, la souffrance, l'impact psychologique.
+
+Les coûts indirects sont liés à :
+- la diminution de la productivité économique d'un pays (lié à la morbidité et mortalité)
+- au nombre d'années en « non santé » c'est à dire augmenta- tion du coût des traitements liés à la maladie
+- des éléments non « monnayables » pour le patient : le temps perdu dans les attentes en consultations, dans les déplacements du domicile au lieu de soins.
+Dans notre étude, nous avons constaté que seuls les coûts de l'hospitalisation pouvaient s'élever à 12.000 dirhams ce qui équivaut à plus de 6 mois de salaire pour un employé payé au
+SMIG sans parler de l'impact psychologique et affectif.
+En comparant ce prix à celui d'une dose de vaccin anti-hépatite À qui ne coûte que 200 dirhams pour le Havrix et 268 dirhams pour l’Avaxim , il parait évident que la vaccination constitue le moyen le plus efficace d'éviter des dépenses considérables.
+Malheureusement, nous n'avons pas pu estimer les coûts liés aux consultations, aux bilans biologiques réalisés, aux traitements médicamenteux achetés et aux différents frais annexes.
+ 
+L'évaluation économique des vaccins repose sur une équation mathématique simple :
+
+CxN-PxExNx(D+l<o0
+
+C: coût de la dose 
+N : taille de la population concernée 
+P : prévalence de la pathologie 
+E : efficacité vaccinale (pourcentage de cas évités) 
+D: coûts moyens directs de la pathologie (pour le payeur)  l: coûts moyens indirects de la pathologie (payeurs/sociétal)  
+Conclusion :
+
+Le virus de l'hépatite A constitue la première cause d'hépatite virale aigue dans le monde et la forme la plus fréquente chez l'enfant.
+
+Selon l'OMS, le Maroc est considéré comme un pays de forte endémicité.
+
+Il n'existe aucun traitement et seule la transplantation hépatique, non pratiquée au Maroc, peut sauver le malade atteint d'hépatite fulminante.
+
+La vaccination systématique de tous les enfants à partir de l'âge d'un an semble être la pierre angulaire de la prévention contre l'hépatite À et de ses formes graves (hépatite fulminante).
+
+Le Maroc dispose de vaccins anti-hépatite A sûrs, efficaces et qui confèrent une protection de longue durée.
+
+Une attention constante aux conditions sanitaires dans les écoles et aux précautions d'hygiène dans la chaîne alimentaire est impérative si l’on veut freiner la propagation de l'hépatite À et de toute autre infection transmise par voie oro-fécale.
+ 

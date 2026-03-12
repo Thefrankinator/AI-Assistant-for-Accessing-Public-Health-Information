@@ -65,7 +65,7 @@ def load_source_1() -> list:
         returns:
             list: A list of Document objects with enriched metadata for each page.
     """
-    source_1 = load_pdf_with_langchain(r"C:\School\Autres\NLP\AAFAPHI\AI-Assistant-for-Accessing-Public-Health-Information\data\raw\Calendrier-vaccinal-2025.pdf")
+    source_1 = load_pdf_with_langchain(r"../../data/raw/Calendrier-vaccinal-2025.pdf")
 
     for page in source_1:
         
@@ -95,7 +95,7 @@ def load_source_2() -> list:
         returns:
             list: A list of Document objects with enriched metadata for each page.
     """
-    source_2 = load_pdf_with_langchain(r"C:\School\Autres\NLP\AAFAPHI\AI-Assistant-for-Accessing-Public-Health-Information\data\raw\Fiches-Descriptives-des-maladies-infectieuses-en-milieu-scolaire-Edition-2023-8-24.pdf")
+    source_2 = load_pdf_with_langchain(r"../../data/raw/Fiches-Descriptives-des-maladies-infectieuses-en-milieu-scolaire-Edition-2023-8-24.pdf")
 
     for page in source_2:
         
@@ -124,7 +124,7 @@ def load_source_3() -> list:
             list: A list of Document objects with enriched metadata for each page.
     """
     
-    source_3 = load_pdf_with_langchain(r"C:\School\Autres\NLP\AAFAPHI\AI-Assistant-for-Accessing-Public-Health-Information\data\raw\Guide-Marocain-de-Vaccinologie-143-158.pdf")
+    source_3 = load_pdf_with_langchain(r"../../data/raw/Guide-Marocain-de-Vaccinologie-143-158.pdf")
     for page in source_3:
         
         page.metadata = {
@@ -152,7 +152,7 @@ def load_source_4() -> list:
             list: A list of Document objects with enriched metadata for each page.
     """
     
-    source_4  =load_pdf_with_ocr(r"C:\School\Autres\NLP\AAFAPHI\AI-Assistant-for-Accessing-Public-Health-Information\data\raw\Lhepatite-A-au-Maroc-Aspects-epidemiologique-facteurs-de-risque-et-prevention-2017-38-55.pdf")
+    source_4  =load_pdf_with_ocr(r"../../data/raw/Lhepatite-A-au-Maroc-Aspects-epidemiologique-facteurs-de-risque-et-prevention-2017-38-55.pdf")
 
     for page in source_4:
         page.metadata = {
@@ -183,7 +183,7 @@ def load_source_5() ->list:
             list: A list of Document objects with enriched metadata for each page.
     """
     
-    source_5 = load_pdf_with_ocr(r"C:\School\Autres\NLP\AAFAPHI\AI-Assistant-for-Accessing-Public-Health-Information\data\raw\loi_98-15_amo_independants_francais.pdf")
+    source_5 = load_pdf_with_ocr(r"../../data/raw/loi_98-15_amo_independants_francais.pdf")
 
     for page in source_5:
         
@@ -212,7 +212,7 @@ def load_source_6() ->list:
             list: A list of Document objects with enriched metadata for each page.
     """
     
-    source_6 = load_pdf_with_ocr(r"C:\School\Autres\NLP\AAFAPHI\AI-Assistant-for-Accessing-Public-Health-Information\data\raw\Loi_n_116-12.pdf")
+    source_6 = load_pdf_with_ocr(r"../../data/raw/Loi_n_116-12.pdf")
 
     for page in source_6:
         

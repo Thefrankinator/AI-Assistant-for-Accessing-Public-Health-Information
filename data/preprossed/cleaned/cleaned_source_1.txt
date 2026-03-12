@@ -1,0 +1,188 @@
+CALENDRIER VACCINAL REFLEXIONS ET PROPOSITION D'UNE HARMONISATION 
+0-6 mois:
+au premier mois de la vie
+Hépatite B (Hép B) : 3 à 4 doses.
+Dans les premières 24 heures après la naissance par un vaccin monovalent. Au 2 ème mois, 3ème mois et 4ème mois par un vaccin combiné.
+Diphtérie (D), Tétanos (T),
+Coquelucheux (Ce ou Ca),
+Hemophilus inﬂuenza (Hib)
+Poliomyélite (VPO et VPI) :
+3 doses par un vaccin combiné
+Pneumocoque : 2 doses à 8 semaines d’intervalle. Une 3ème dose si facteur de risque.
+Rotavirus : 2 à 3 doses selon le vaccin 
+6-12 mois:
+Rougeole (R) Oreillons (O)
+Rubéole (R)
+RR : 1 ère dose à 9 mois dans le PNI
+ROR : 1 ère dose 12 mois sans le secteur libéral
+Pneumocoque : dose de rappel à 12 mois 
+12-18 mois:
+DTCa VPI Hib : 4ème dose
+RR ou ROR : 2ème dose entre 15 et 18 mois
+Hépatite A : 1ère dose ± 2ème dose à 6 mois d'intervalle
+Varicelle : 1ère dose + 2ème dose à au moins 1 mois après la 1ère dose
+Grippe saisonnière :
+Primo-vaccination en 2 doses à 1 mois d’intervalle
+Meningocoque (voire commentaires)
+5-6 ans:
+DTCe , VPOb ou VPI ou
+DTCaVPI
+Grippe saisonnière :
+primo-vaccination en 2 doses à 1 mois d’intervalle jusqu’à l’age de 9 ans
+Meningocoque (voire commentaires) 
+9-15 ans:
+DTCa VPI Papillomavirus humain:
+1 à 2 doses 
+>65 ans:
+Grippe saisonnière :
+1 dose chaque année
+Meningocoque (voire commentaires)
+Grippe saisonnière :
+1 dose chaque année
+Pneumocoque ?
+
+Introduction :  Dans notre pays, nous avons deux secteurs de vaccinations pour les enfants. (I) Le 
+Programme National d’immunisation (PNI) qui vaccine autour de 95% des enfants, au niveau des 
+dispensaires et des centres de santé où les vaccins et les prestations vaccinales sont gratuites. (II) 
+Le secteur des pédiatres libéraux, qui complète le PNI en vaccinant autour de 3% des enfants, et qui 
+propose en plus certaines vaccinations complémentaires, non pratiquées dans le PNI. Le calendrier 
+vaccinal reste toujours un processus dynamique et évolutif, qui doit en permanence faire l’objet de 
+révisions et de modifications selon notre épidémiologie, nos priorités, l’arrivée de nouveaux vaccins et 
+les ressources financières disponibles.
+1. La vaccination par le BCG constitue toujours dans notre pays l’un des principaux moyens de lutte contre 
+la tuberculose chez les nourrissons et les jeunes enfants, puisque l’incidence de la tuberculose reste 
+encore élevée avec autour de 30 000 nouveaux cas de TB déclarés chaque année. L’administration 
+du BCG se fait dans le premier mois de vie, en une seule injection par voie intradermique stricte 
+au niveau de la face externe du bras  gauche, entre le tiers supérieur et le tiers moyen. Il n’y a ni  
+rappel vaccinal et ni contrôle par une IDR à la tuberculine.  Chez les nouveau-nés, la présence d’un 
+ictère physiologique et/ou d’un poids de moins de 3Kg ne constituent pas une contre-indication à la 
+vaccination. L’absence d’une cicatrice vaccinale n’indique pas une revaccination par le BCG.
+NB  BCG et infection à VIH : (1) Les nouveau-nés de mères séropositives et dont le statut sérologique pour le VIH est 
+inconnu  doivent  être  vaccinés  s’ils  ne  présentent pas  de  signes  cliniques  évocateurs d’infection à  VIH,  que  la  mère 
+reçoive ou non un traitement antirétroviral. Les avantages de la vaccination par le BCG l’emportent sur les risques. 
+(2) Par contre, chez les nouveau-nés infectés par le VIH avec confirmation par des tests virologiques précoces, il faut 
+retarder la vaccination par le BCG jusqu’à ce que l’instauration du traitement antirétroviral aurait restaurait l’immunité 
+de l’enfant  (CD4 >25 %). 
+2. La vaccination contre l’hépatite B. Dans notre contexte, la sérologie antigène HBs étant très peu 
+pratiquée chez les mères en fin de grossesse , la 1 ère dose vaccinale doit impérativement être 
+démarrée dès que possible après la naissance, de préférence dans les premières 24 heures qui 
+suivent l’accouchement. C ’est cette 1ère dose qui permet de prévenir au maximum la transmission 
+verticale de l’infection mère-enfant. Dans le PNI, le protocole d’administration du vaccin de l’hépatite 
+B est de 4 doses : vaccin monovalent à la naissance et vaccin combiné pentavalent à 2, 3 et 4 mois  ; 
+ce qui convient en plus aux prématurés de moins de 32 semaines et aux nouveau-nés ayant un poids 
+inférieur à 2 kg.  Malgré la disponibilité du vaccin monovalent hépatite B en pharmacie, la presque 
+totalité du secteur libéral ne vaccine pas contre l’hépatite B à la naissance, mais qu’à partir de l’âge de 
+2 mois par les vaccins combinés (pentavalents et hexavalents) à 2, 3 et 4 mois. Chez ces nourrissons, 
+la dose à la naissance ne doit pas être comptée parmi les 3 doses de la série de primo-vaccination; 
+la série standard de 3 doses de primovaccination doit être administrée conformément au calendrier 
+vaccinal national.
+3. Les vaccins contre la coqueluche à germes entiers utilisés dans le PNI et les  vaccins acellulaires du 
+secteur libéral possèdent la même efficacité protectrice, mais avec une meilleure tolérance pour les 
+vaccins acellulaires. Ces deux vaccins sont utilisés pour les primo-vaccinations à 2, 3 et 4 mois , ainsi 
+que pour les rappels à 18 mois. Par contre, pour les rappels tardifs de 5-6 ans et de 10-12 ans, il faut 
+préférer les vaccins acellulaires avec une formulation vaccinale adaptée à cet âge du fait de leur 
+meilleure tolérance. 
+ La vaccination des femmes enceintes adoptée par plusieurs pays constitue la stratégie complémentaire 
+la plus rentable et semble être plus efficace et plus bénéfique que le cocooning.
+NB :  Les  cas  graves  et  les  décès  dus  actuellement  à la  coqueluche  se  produisent  presque  exclusivement durant  les 
+premières semaines et les premiers mois de la vie. Pour prévenir la coqueluche à cet âge, chez les très jeunes nourrissons 
+non encore vaccinés, la vaccination des femmes enceintes constitue probablement la stratégie complémentaire la plus 
+rentable et elle semble être plus efficace et plus bénéfique que le cocooning. 
+4. La vaccination contre la poliomyélite se fait dans le PNI avec le vaccin poliomyélitique oral (VPO en 
+gouttes) à 2, 3 et 4 mois, avec un rappel à 18 mois. L’OMS recommande actuellement de remplacer 
+le VPO trivalent (sérotypes 1, 2 et 3) par le  VPO bivalent (sérotypes 1 et 3) à cause du risque non 
+négligeable des paralysies post-vaccinales dues au sérotype 2 du VPO. Parallèlement, il faut palier 
+la protection vaccinale contre le sérotype 2 par l’introduction de deux doses supplémentaires de  
+vaccin poliomyélitique injectable monovalent (VPI) aux âges de 4 et de 9 mois (en cours d’exécution). 
+Cependant, dans le secteur libéral, la vaccination se fait par un calendrier << tout VPI >> à 2, 3 et 4 
+mois, avec un rappel à 18 mois par le vaccin combiné* .
+5. La vaccination contre le tétanos se fait avec le vaccin combiné*  à 2,3 et 4 mois avec un rappel à 18 
+mois, puis les rappels tardifs à 5-6 ans et 10-12ans.  La protection à vie contre le tétanos peut être 
+obtenue par le maintien d’une forte couverture vaccinale comportant 6 doses vaccinales d’anatoxine 
+tétanique : 3 doses de primo-vaccination et 3 doses de rappel. Le PNI a mis aussi en place la stratégie 
+de la vaccination antitétanique par le vaccin Td (vaccin à doses diphtérique réduite, mieux toléré) 
+des femmes en âge de procréer et des femmes enceintes pour la prévention du tétanos néonatal. À 
+partir de l’âge de 7 ans, seuls les vaccins combinés Td doivent être utilisés. Des associations adaptées 
+à l’âge contenant le vaccin anti-coquelucheux avec l’anatoxine diphtérique faiblement dosée sont 
+également disponibles.
+6. Le  vaccin  conjugué  contre  l’Haemophilus influenza   type  b s e fait dans le PNI en une primo-
+vaccination de 3 doses par le vaccin combiné pentavalent à 2, 3 et 4 mois, mais sans aucune dose de 
+rappel par la suite. Selon l’OMS, cette stratégie de trois doses primaires sans dose de rappel (3p+0) 
+convient mieux aux pays où le pic de maladies à Hib sévères se produit chez les jeunes nourrissons. 
+Quoiqu’il en soit, pour garantir une protection optimale, il faut compléter cette primo-vaccination 
+par une dose de rappel à 18 mois, selon le schéma 2+1 ou 3+1. Cependant, dans le secteur libéral, les 
+primo-vaccinations et les rappels à 18 mois sont tous les deux pratiqués avec des vaccins combinés 
+pentavalents et hexavalents. `Le vaccin anti-Hib n’est pas nécessaire chez les enfants de >5 ans en 
+bonne santé.
+7. Les vaccins conjugués contre le pneumocoque, le VPC10 et le VPC13, ont tous les deux un impact 
+considérable contre les infections invasives à pneumocoque dus aux sérotypes vaccinaux, septicémies 
+et méningites. A moindre degré, ils réduisent aussi chez les enfants la morbidité de la pneumonie 
+et l’otite moyenne aigue. Enfin, Ils ont en plus  une action sur le portage rhino-pharyngé avec un 
+phénomène de remplacement des sérotypes vaccinaux, ce qui exige une surveillance permanente 
+des sérotypes. La vaccination se fait classiquement suivant le schéma 2 + 1 : les deux premières doses 
+sont pratiquées à 8 semaines d’intervalle et la dose de rappel se fait vers l’âge de 1 an. Mais, pour 
+les prématurés et les nourrissons de faible poids, qui ont un haut risque de développer une infection 
+invasive à pneumocoque, il faut opter pour un schéma vaccinal à 4 doses, soit 3 +1. L’OMS n’a pas en 
+ce moment des recommandations en ce qui concerne l’administration du VPC aux personnes >5 ans.
+NB : En 2023, un nouveau vaccin PCV13 produit en chine a été introduit dans le PNI, mais, il ne peut être co-administré 
+avec les autres vaccins par faute d’ AMM (aucune étude sur l’efficacité et la tolérance du vaccin en co-administration). 
+Ainsi, ce vaccin est administré en 4 doses, seul après un décalage de 15 jours par rapport aux autres vaccinations, soit 
+à 2 mois 1/2, 4 mois ½, 6 mois   et à 12 mois. Tout ceci entraine évidemment des difficultés programmatiques avec 
+augmentation du nombre des RDV et des occasions manquées !
+8. La vaccination contre le rotavirus se fait par voie orale chez tous les nourrissons à partir de l’âge 
+de 2 mois. Selon le type du vaccin, deux à trois doses sont nécessaires , à un mois d’intervalle entre 
+les prises. La vaccination  commence à l’âge de 2 mois et elle doit se terminer avant l’âge 6 mois 
+pour éviter la coïncidence de son administration avec l’âge habituel de survenue des invaginations 
+intestinales aigues (recommandations des laboratoires fabricants du vaccin). L’OMS a levé toutes ces 
+limites d’âge et le vaccin peut être pratiqué jusqu’à l’âge de 2 ans.
+9. Les vaccins contre la rougeole, la rubéole et les oreillons sont des vaccins vivants injectables. Dans 
+le PNI, seul le vaccin RR est disponible et il est administré en deux doses à partire de 9 mois. La 
+couverture vaccinale pour les deux doses doit être très élevée et maintenue en permanence à 90% 
+et plus.  Dans le secteur libéral, c’est plutôt le vaccin RRO qui est utilisé en deux doses avec la 1ère  dose 
+à partir de 12 mois et la 2 ème dose entre 15 et 18 mois.
+10. La vaccination contre la varicelle est proposée à partir de l’âge de 1 an (12-18 mois), avec deux doses 
+espacées d’au moins 1 à 3 mois d’intervalle pour l’obtention d’une protection optimale. Dans notre 
+pays, elle est actuellement administrée en vaccination individuelle sur explications et consentement 
+des parents. Une vaccination généralisée peut être envisagée dans un pays, si la maladie de la 
+varicelle représente un important fardeau pour la sant é publique et que les ressources disponibles 
+peuvent garantir une couverture vaccinale de 80% et plus, surtout si la vaccination possède en plus 
+un impact potentiel sur l’herpès zoster.
+11. La vaccination contre l’Hépatite A se fait à partir de l’âge de 1 an avec une à deux doses espacées 
+d’au moins de 6 mois d’écart. La vaccination est vivement recommandée dans notre pays car il garde 
+une zone d’endémicité de niveau  élevée à intermédiaire. Seuls les vaccins inactivés sont disponibles 
+dans les pharmacies.
+12. La  vaccination contre le  papillomavirus est actuellement proposée dans le PNI en 1 dose, visant 
+en priorité les adolescentes à partir de l’âge de 9 ans. Mais, ce vaccin pose de grands problèmes de 
+communication avec la population : but du vaccin, adhésion et acceptabilité de la vaccination. Quoi 
+qu’il en soit, la vaccination doit être terminée avant le début de toute activité sexuelle. L’âge optimal 
+se situe entre 9 et 15 ans, sinon au même moment des rappels tardifs du vaccin DTC. Schéma à 
+dose unique (OMS) : En tant qu’utilisation hors indications officielles, un schéma à dose unique peut 
+être adopté chez les filles et les garçons âgés de 9-20 ans. Les données actuelles portent à croire 
+que l’efficacité vaccinale et la durée de protection offertes par une dose unique sont comparables 
+à celles d’un schéma à 2 doses et que le schéma à dose unique peut présenter des avantages sur le 
+plan programmatique, être une solution plus efficace et abordable et contribuer à une meilleure 
+couverture. Du point de vue de la santé publique, l’utilisation d’un schéma à dose unique peut avoir 
+des avantages substantiels qui l’emportent sur le risque d’un déclin potentiel de la protection si 
+l’efficacité vaccinale diminue avec le temps, bien que rien n’indique actuellement que cela soit le cas.
+13. Les  vaccins  conjugués  et  les  vaccins  protéiques  contre  le  méningocoque doivent tenir compte 
+de l’ épidémiologie locale des infections invasives à méningocoques, en particulier  la fréquence 
+de la maladie , de sa gravité et  de la répartition des  sérogroupes en cause (A,B,C,W135,Y et X).  
+Le  méningocoque  B  reste de  très  loin  le  sérogroupe le  plus  prédominant au  Maroc. Le coût du 
+vaccin protéique contre le sérogroupe B reste  très élevé et il n’est pas actuellement disponible dans  
+notre pays . Par contre, les vaccins conjugués quadrivalents ACYW135 sont disponibles  et ils sont 
+efficaces avant l’âge de 2 ans. La première indication de ces vaccins conjugués est la vaccination 
+individuelle ciblée : (1) Riposte vaccinale des sujets contacts autour d’un cas index confirmé à l’un des 
+sérogroupes du méningocoque du vaccin quadrivalent. (2) Voyage dans une zone d’endémie à risque 
+élevé à l’un de ces méningocoques (pèlerinage à la Mecque, Umrah, pays de la ceinture africaine). 
+(3) Patients ayant un déficit immunitaire en complément ou en properdine, splénectomisés, asplénie 
+fonctionnelle et infection à VIH.
+14. La vaccination contre la grippe saisonnière est recommandée, chaque année, pour les personnes à 
+risque très élevé de complications : (1) Personnes âgées de 65 ans et plus. (2) Personnes atteintes 
+de certaines maladies chroniques dont les enfants à partir de 6 mois, les femmes enceintes et les 
+personnes souffrant d’obésité. La vaccination contre la grippe est désormais proposée à tous les 
+enfants de 2 à 17 ans.
+*La tendance actuelle c’est de préférer les vaccins combinées.
+*Quelques précisions des notifications :
+- Vaccin combiné pentavalent du PNI : DTCe – Hib – HB.
+- Vaccin combiné pentavalent du secteur libéral : DTCa – VPI – Hib. 
+- Vaccin combiné hexavalent du secteur libéral : DTCa – VPI – Hib – HB.
