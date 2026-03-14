@@ -1,4 +1,4 @@
-from load import *
+from data_precessing.load import *
 import re
 import json
 
