@@ -1,7 +1,5 @@
 import sys
 from pathlib import Path
-
-# Adds src/ to the path so Python can find embeddings/
 sys.path.append(str(Path(__file__).resolve().parent.parent))
 
 from langchain_community.vectorstores import FAISS # type: ignore

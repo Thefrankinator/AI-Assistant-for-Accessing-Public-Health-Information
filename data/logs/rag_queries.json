@@ -1,0 +1,84 @@
+[
+    {
+        "timestamp": "2026-03-19T06:03:05.737714",
+        "question": " C'est quoi l'AMO pour les etudiants ? ",
+        "answer": "",
+        "answered": false,
+        "answer_length": 0,
+        "metadata": [
+            [
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 1
+                },
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 4
+                },
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 2
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-19T06:03:09.940313",
+        "question": " C'est quoi l'AMO pour les etudiants ? ",
+        "answer": "L'AMO (Assurance Maladie Obligatoire) pour les étudiants au Maroc est un régime qui couvre la prise en charge des frais de soins et le remboursement des frais médicaux. \n\nChaque assuré doit verser des cotisations avant de pouvoir bénéficier de ces droits. Il y a une période de stage de six mois à partir de la date d'immatriculation au régime de l'AMO, durant laquelle la prise en charge n'est pas effective, sauf si l'assuré dispose déjà d'une couverture contre la maladie correspondant à sa catégorie au moment de son immatriculation, auquel cas cette période de stage est dispensée.\n\nAinsi, l'AMO permet aux étudiants de bénéficier d'une couverture santé pour leurs soins médicaux sous réserve du respect des conditions d'adhésion et de paiement des cotisations.",
+        "answered": true,
+        "answer_length": 766,
+        "metadata": [
+            [
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 1
+                },
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 4
+                },
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 2
+                }
+            ]
+        ]
+    }
+]
