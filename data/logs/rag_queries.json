@@ -80,5 +80,743 @@
                 }
             ]
         ]
+    },
+    {
+        "timestamp": "2026-03-19T06:57:47.860947",
+        "question": " C'est quoi l'AMO pour les etudiants ? ",
+        "answer": "",
+        "answered": false,
+        "answer_length": 0,
+        "metadata": [
+            [
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 1
+                },
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 4
+                },
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 2
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-19T06:57:57.461427",
+        "question": " C'est quoi l'AMO pour les etudiants ? ",
+        "answer": "L'AMO (Assurance Maladie Obligatoire) pour les étudiants est un régime d'assurance maladie obligatoire qui garantit la prise en charge des frais de soins pour les étudiants. Pour bénéficier de cette prise en charge, chaque assuré doit verser ses cotisations avant d'ouvrir le droit à la prise en charge des frais de soins et au remboursement. Il y a une période de stage fixée à six mois à compter de la date d’effet de l'immatriculation au régime AMO, sauf si l'assuré dispose déjà, au moment de son immatriculation, d’une couverture contre la maladie dans la même catégorie ou sous-catégorie, auquel cas la période de stage est dispensée.\n\nEn résumé, l'AMO permet aux étudiants l’accès à une couverture médicale sous condition de cotisation préalable, facilitant ainsi leur accès aux soins de santé. Si vous souhaitez des informations plus spécifiques sur les modalités d'adhésion ou les prestations, n'hésitez pas à demander.",
+        "answered": true,
+        "answer_length": 928,
+        "metadata": [
+            [
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 1
+                },
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 4
+                },
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 2
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-19T06:59:16.013243",
+        "question": " Et est ce que c'est payant ? et obliger de l'avoir ? ",
+        "answer": "Pour pouvoir vous répondre précisément, pourriez-vous préciser de quel service, vaccin, ou traitement vous parlez ? Cela m'aidera à vous fournir des informations exactes sur les coûts éventuels et les obligations liées.",
+        "answered": true,
+        "answer_length": 219,
+        "metadata": [
+            [
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 25
+                },
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 23
+                },
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 13
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-19T07:02:44.273255",
+        "question": " C'est quoi l'AMO pour les etudiants ? ",
+        "answer": "",
+        "answered": false,
+        "answer_length": 0,
+        "metadata": [
+            [
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 1
+                },
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 4
+                },
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 2
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-19T07:02:48.144366",
+        "question": " C'est quoi l'AMO pour les etudiants ? ",
+        "answer": "L'AMO (Assurance Maladie Obligatoire) pour les étudiants est un régime qui permet aux étudiants de bénéficier d'une prise en charge des frais de soins et de remboursement des frais médicaux. Pour ouvrir ce droit à la couverture, chaque assuré doit verser des cotisations avant de prétendre à la prise en charge, avec une période de stage fixée à six mois à compter de la date d’effet de son immatriculation au régime. Cependant, l’étudiant est dispensé de cette période de stage s’il dispose déjà, à la date de son immatriculation, d’une couverture contre la maladie correspondant à sa catégorie, ou s'il change de régime d'assurance maladie obligatoire.\n\nSi vous souhaitez plus de détails sur les conditions et les modalités de l'AMO pour les étudiants, je peux vous fournir des informations supplémentaires.",
+        "answered": true,
+        "answer_length": 809,
+        "metadata": [
+            [
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 1
+                },
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 4
+                },
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 2
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-19T07:02:49.427190",
+        "question": " Et est ce que je dois la payer chaque année ? ",
+        "answer": "",
+        "answered": false,
+        "answer_length": 0,
+        "metadata": [
+            [
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 82
+                },
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 25
+                },
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 13
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-19T07:02:56.053634",
+        "question": " Et est ce que je dois la payer chaque année ? ",
+        "answer": "Oui, en tant qu'étudiant bénéficiaire de l'AMO, vous devez verser des cotisations à la Caisse nationale de sécurité sociale avant de pouvoir bénéficier de la prise en charge des frais médicaux. Ces cotisations sont déterminées sur la base de votre revenu forfaitaire et d'un taux de cotisation. Vous êtes responsable du paiement intégral de ces cotisations à partir de la date d'effet de votre immatriculation.\n\nLe paiement des cotisations est annuel et tout retard dans le versement des cotisations entraîne une majoration de 1% par mois de retard, dans la limite du montant d'un mois de cotisation par an.\n\nAutrement dit, oui, il faut payer la cotisation AMO chaque année pour maintenir votre couverture de santé.",
+        "answered": true,
+        "answer_length": 715,
+        "metadata": [
+            [
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 82
+                },
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 25
+                },
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 13
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-19T08:43:54.505140",
+        "question": "C'est quoi l'amo pour les etudiants ?",
+        "answer": "",
+        "answered": false,
+        "answer_length": 0,
+        "metadata": [
+            [
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 12
+                },
+                {
+                    "source": "L’hépatite A au Maroc : Aspects épidémiologiques, facteurs de risque et prévention",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2017,
+                    "theme": "hepatite_A",
+                    "region": "national",
+                    "chunk_index": 8
+                },
+                {
+                    "source": "L’hépatite A au Maroc : Aspects épidémiologiques, facteurs de risque et prévention",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2017,
+                    "theme": "hepatite_A",
+                    "region": "national",
+                    "chunk_index": 1
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-19T08:43:57.626853",
+        "question": "C'est quoi l'amo pour les etudiants ?",
+        "answer": "L'AMO pour les étudiants fait référence à l'Assurance Maladie Obligatoire. Chaque assuré doit verser des cotisations avant de pouvoir bénéficier de la prise en charge des frais de soins et du remboursement des frais. Pour les étudiants, il y a une période de stage de six mois à compter de la date d'effet de leur immatriculation au régime de l'AMO. Toutefois, s'ils disposent déjà d'une couverture maladie pour leur catégorie au moment de l'immatriculation, cette période de stage peut être dispensée.\n\nEn résumé, l'AMO est un régime qui permet aux étudiants d'avoir une couverture santé obligatoire, avec des cotisations à payer pour accéder aux soins.",
+        "answered": true,
+        "answer_length": 654,
+        "metadata": [
+            [
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 12
+                },
+                {
+                    "source": "L’hépatite A au Maroc : Aspects épidémiologiques, facteurs de risque et prévention",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2017,
+                    "theme": "hepatite_A",
+                    "region": "national",
+                    "chunk_index": 8
+                },
+                {
+                    "source": "L’hépatite A au Maroc : Aspects épidémiologiques, facteurs de risque et prévention",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2017,
+                    "theme": "hepatite_A",
+                    "region": "national",
+                    "chunk_index": 1
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-19T08:44:52.305550",
+        "question": "est ce que c'est payany ?",
+        "answer": "",
+        "answered": false,
+        "answer_length": 0,
+        "metadata": [
+            [
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 75
+                },
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 17
+                },
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 62
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-19T08:44:55.189792",
+        "question": "est ce que c'est payany ?",
+        "answer": "L'Assurance Maladie Obligatoire (AMO) pour les étudiants est soumise au paiement de cotisations. Chaque assuré, y compris les étudiants, doit verser les cotisations à la Caisse nationale de sécurité sociale avant de pouvoir bénéficier de la prise en charge des frais de soins et du remboursement. Le montant de la cotisation est déterminé en fonction d'un revenu forfaitaire fixé pour la catégorie dont l'assuré relève.\n\nEn résumé, l'AMO pour les étudiants n'est pas gratuite; elle est payante avec des cotisations obligatoires à verser.",
+        "answered": true,
+        "answer_length": 537,
+        "metadata": [
+            [
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 75
+                },
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 17
+                },
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 62
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-19T08:45:25.750230",
+        "question": "A qui je doit verser donc ce payment ?",
+        "answer": "Le paiement des cotisations pour l'Assurance Maladie Obligatoire (AMO) doit être versé à la Caisse Nationale de Sécurité Sociale (CNSS) au Maroc. C'est cet organisme qui gère la collecte des cotisations et la prise en charge des frais de soins dans le cadre de l'AMO.",
+        "answered": true,
+        "answer_length": 267,
+        "metadata": [
+            [
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 62
+                },
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 13
+                },
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 55
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-19T08:56:54.917111",
+        "question": "sa",
+        "answer": "Si vous avez d'autres questions ou besoin de plus d'informations sur l'Assurance Maladie Obligatoire ou tout autre sujet lié à la santé publique au Maroc, n'hésitez pas à me le demander !",
+        "answered": true,
+        "answer_length": 187,
+        "metadata": [
+            [
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 75
+                },
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 15
+                },
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 92
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-19T08:58:47.987280",
+        "question": "dasd",
+        "answer": "Je ne trouve pas cette information dans les documents disponibles. Si vous avez une question spécifique, n'hésitez pas à la poser !",
+        "answered": true,
+        "answer_length": 131,
+        "metadata": [
+            [
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 92
+                },
+                {
+                    "source": "L’hépatite A au Maroc : Aspects épidémiologiques, facteurs de risque et prévention",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2017,
+                    "theme": "hepatite_A",
+                    "region": "national",
+                    "chunk_index": 18
+                },
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 75
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-19T09:09:04.894873",
+        "question": "iji\\",
+        "answer": "Je ne trouve pas cette information dans les documents disponibles. Pourriez-vous reformuler votre demande ou poser une question plus précise sur la santé publique au Maroc ?",
+        "answered": true,
+        "answer_length": 173,
+        "metadata": [
+            [
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 92
+                },
+                {
+                    "source": "L’hépatite A au Maroc : Aspects épidémiologiques, facteurs de risque et prévention",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2017,
+                    "theme": "hepatite_A",
+                    "region": "national",
+                    "chunk_index": 18
+                },
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 75
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-19T09:11:39.496987",
+        "question": "asas",
+        "answer": "Je ne trouve pas cette information dans les documents disponibles.",
+        "answered": true,
+        "answer_length": 66,
+        "metadata": [
+            [
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 92
+                },
+                {
+                    "source": "L’hépatite A au Maroc : Aspects épidémiologiques, facteurs de risque et prévention",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2017,
+                    "theme": "hepatite_A",
+                    "region": "national",
+                    "chunk_index": 18
+                },
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 86
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-20T18:51:06.714881",
+        "question": "c'est quoi l'amo",
+        "answer": "",
+        "answered": false,
+        "answer_length": 0,
+        "metadata": [
+            [
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 7
+                },
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 34
+                },
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 75
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-20T18:51:20.628330",
+        "question": "c'est quoi l'amo",
+        "answer": "Je ne trouve pas d'information précise sur l'AMO dans les documents disponibles. \n\nCependant, au Maroc, AMO signifie \"Assurance Maladie Obligatoire\". Il s'agit d'un système d'assurance santé mis en place pour permettre à toutes les personnes actives ou à charge d'une activité rémunérée de bénéficier d'une couverture médicale. \n\nSi vous souhaitez plus de détails sur l'AMO, n'hésitez pas à me le demander.",
+        "answered": true,
+        "answer_length": 406,
+        "metadata": [
+            [
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 7
+                },
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 34
+                },
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 75
+                }
+            ]
+        ]
     }
 ]

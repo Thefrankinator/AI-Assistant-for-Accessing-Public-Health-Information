@@ -1,17 +1,15 @@
 import sys
 from pathlib import Path
 sys.path.append(str(Path(__file__).resolve().parent.parent))
-
-
-
 from langchain_community.vectorstores import FAISS # type: ignore
 from langchain_core.tools import create_retriever_tool # type: ignore
 from langchain.agents import create_agent # type: ignore
 from dotenv import load_dotenv # type: ignore
 from embeddings.embedding_generator import get_embedding_model
 from langchain.agents.middleware import before_model, after_model ,  AgentState # type: ignore
-from langchain.messages import AIMessage , HumanMessage , ToolMessage # type: ignore
+from langchain.messages import AIMessage , HumanMessage  # type: ignore
 from langgraph.runtime import Runtime # type: ignore
+from langgraph.checkpoint.memory import MemorySaver # type: ignore
 from typing import Any
 import re
 from datetime import datetime
@@ -26,6 +24,7 @@ LOG_FILE = Path("data/logs/rag_queries.json")
 
 MAX_CHARACTERS = 500
 
+memory = MemorySaver()
 HEALTH_KEYWORDS = [
     # Medical
     "vaccin", "vaccination", "maladie", "symptôme", "traitement",
@@ -169,9 +168,9 @@ def detect_fallback(state: AgentState, runtime: Runtime) -> dict[str, Any] | Non
         return None
 
     answer = state["messages"][-1].content.lower()
+    pattern = r"Je ne trouve pas cette information dans les documents disponibles"
 
-
-    if answer == "Je ne trouve pas cette information dans les documents disponibles." :
+    if re.search(pattern, answer) :
 
         current_answer = state["messages"][-1].content
         suggestion = (
@@ -240,11 +239,21 @@ def log_interaction(state: AgentState, runtime: Runtime) -> dict[str, Any] | Non
 
 
 
-def invoke_agent(question : str) :
+def invoke_agent(question : str,thread_id : str) :
+    
+    
+    
+    config = {
+        "configurable": {
+            "thread_id": thread_id   # ← identifies the conversation
+        }
+    }
+    
     agent = create_agent(
         model = 'gpt-4.1-mini',
         tools = [create_faiss_retriever_tool(vector_store)],
         middleware = [guard_message_length , guard_injection,detect_fallback,log_interaction],
+        checkpointer=memory,
         system_prompt = """Tu es un assistant spécialisé dans la santé publique au Maroc.
     Ton role est d'aider les utilisateurs à accéder à des informations fiables et pertinentes sur la santé publique au Maroc.
     Tu peux répondre à des questions sur les maladies, les vaccins, les symptômes, les traitements, les centres de santé,
@@ -257,15 +266,18 @@ def invoke_agent(question : str) :
 
 
     return  agent.invoke(
-        {
-            "messages": [HumanMessage(content=question)]
-        }
+        {"messages": [HumanMessage(content=question)]},
+         config = config,
     )
 
 if __name__ == "__main__":
     question =  " C'est quoi l'AMO pour les etudiants ? "
-    result  = invoke_agent(question)
-    #print(result['messages'][-1].content)
+    result  = invoke_agent(question,"0000")
+    print(result['messages'][-1].content)
+    
+    print("\n\n")
 
-
+    question =  " Et est ce que je dois la payer chaque année ? "
+    result  = invoke_agent(question,"0000")
+    print(result['messages'][-1].content)
     
