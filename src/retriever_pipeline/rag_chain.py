@@ -22,7 +22,7 @@ vector_store = FAISS.load_local("data/faiss_vector_store", embeddings = get_embe
 
 LOG_FILE = Path("data/logs/rag_queries.json")
 
-MAX_CHARACTERS = 500
+MAX_CHARACTERS = 300
 
 memory = MemorySaver()
 HEALTH_KEYWORDS = [
@@ -238,8 +238,83 @@ def log_interaction(state: AgentState, runtime: Runtime) -> dict[str, Any] | Non
     return None
 
 
+@after_model
+def enrich_with_metadata(state: AgentState, runtime: Runtime) -> dict[str, Any] | None:
 
-def invoke_agent(question : str,thread_id : str) :
+    if not state.get("messages"):
+        return None
+
+
+    answer = None
+    final_idx = None
+    
+    # get the  ai message that represente the final answer of the model 
+    for i in range(len(state["messages"]) - 1, -1, -1):
+        msg = state["messages"][i]
+        if isinstance(msg, AIMessage):
+            has_tool_calls = hasattr(msg, "tool_calls") and bool(msg.tool_calls)
+            if not has_tool_calls:     
+                answer    = msg.content
+                final_idx = i
+                break
+
+    if answer is None or final_idx is None:
+        return None
+    if len(answer.strip()) < 30 or re.search(r"Je ne trouve pas cette information dans les documents disponibles",answer):
+        return None
+
+    question = get_user_message(state)
+    if not question:
+        return None
+
+
+    results = vector_store.similarity_search(question, k=3)
+    if not results:
+        return None
+
+    seen    = set()
+    sources = []
+
+    for doc in results:
+        meta      = doc.metadata
+        source    = meta.get("source")
+        page      = meta.get("page")
+        theme     = meta.get("theme")
+        doc_type  = meta.get("type")
+        year      = meta.get("annee")
+        key       = f"{source}"
+
+        if key in seen:
+            continue
+        seen.add(key)
+        sources.append({
+            "source": source,
+            "page":   page,
+            "theme":  theme,
+            "type":   doc_type,
+            "annee":  year
+        })
+
+    # Build metadata block 
+    metadata_block = "\n\n---\n**Sources utilisées:**\n"
+    for i, src in enumerate(sources, 1):
+        metadata_block += (
+            f"\n**{i}.** `{src['source']}` "
+            f"| theme: {src['theme']} "
+            f"| type: {src['type']} "
+            f"| annee: {src['annee']}\n"
+        )
+
+    enriched_answer = answer.strip() + metadata_block
+
+    # Replace ONLY the message at final_idx 
+    new_messages = list(state["messages"])          
+    new_messages[final_idx] = AIMessage(content=enriched_answer) 
+
+    return {"messages": new_messages}
+
+
+def invoke_agent(question : str,thread_id : str)  -> str:
     
     
     
@@ -263,21 +338,63 @@ def invoke_agent(question : str,thread_id : str) :
     "Je ne trouve pas cette information dans les documents disponibles."""
     )
 
-
-
-    return  agent.invoke(
+    result = agent.invoke(
         {"messages": [HumanMessage(content=question)]},
          config = config,
     )
+    answer = result['messages'][-1].content
+    
+    
+    results = vector_store.similarity_search(question, k=3)
+    if not results:
+        return answer
+
+    seen    = set()
+    sources = []
+
+    for doc in results:
+        meta      = doc.metadata
+        source    = meta.get("source")
+        page      = meta.get("page")
+        theme     = meta.get("theme")
+        doc_type  = meta.get("type")
+        year      = meta.get("annee")
+        key       = f"{source}"
+
+        if key in seen:
+            continue
+        seen.add(key)
+        sources.append({
+            "source": source,
+            "page":   page,
+            "theme":  theme,
+            "type":   doc_type,
+            "annee":  year
+        })
+
+    # Build metadata block 
+    metadata_block = "\n\n---\n**Sources utilisées:**\n"
+    for i, src in enumerate(sources, 1):
+        metadata_block += (
+            f"\n**{i}.** `{src['source']}` "
+            f"| theme: {src['theme']} "
+            f"| type: {src['type']} "
+            f"| annee: {src['annee']}\n"
+        )
+
+    enriched_answer = answer.strip() + metadata_block
+
+  
+    return  enriched_answer
 
 if __name__ == "__main__":
     question =  " C'est quoi l'AMO pour les etudiants ? "
     result  = invoke_agent(question,"0000")
-    print(result['messages'][-1].content)
+    #print(result['messages'][-1].content)
     
     print("\n\n")
 
     question =  " Et est ce que je dois la payer chaque année ? "
     result  = invoke_agent(question,"0000")
-    print(result['messages'][-1].content)
+    #print(result['messages'][-1].content)
     
