@@ -397,8 +397,3 @@ if __name__ == "__main__":
     question =  " Et est ce que je dois la payer chaque année ? "
     result  = invoke_agent(question,"0000")
     #print(result['messages'][-1].content)
-<<<<<<< HEAD
-    
-=======
-    
->>>>>>> 85a3a585e9dc1176810e8ab2747cfbcc25aefc7c
