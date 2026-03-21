@@ -12,9 +12,9 @@ Many official health resources contain valuable information but are difficult fo
 
 This project aims to build a system that allows users to ask questions such as:
 
-- *What are the symptoms of influenza?*
-- *What vaccines are recommended for children?*
-- *What should I do if I have influenza symptoms?*
+- *Quels sont les vaccins obligatoires pour les enfants de 0 à 6 mois au Maroc ?*
+- *À quel âge administrer la première dose du vaccin contre l hépatite B ?*
+- *Quelle est la période d incubation de la méningite virale ?*
 
 The assistant retrieves information from trusted documents and generates a clear answer.
 
@@ -42,12 +42,12 @@ Final Answer
 
 Main components:
 
-1. **Document Processing** (spaCy)
-2. **Embeddings Generation** (Sentence Transformers)
-3. **Vector Storage** (FAISS / ChromaDB)
-4. **Retrieval System**
-5. **Answer Generation (LLM)**
-6. **Streamlit Interface**
+1. **LangChain** — orchestration framework for the RAG pipeline
+2. **Embeddings** — Sentence Transformers / OpenAI text-embedding-3-large
+3. **Vector store** — FAISS (local, fast similarity search)
+4. **Retrieval** — top-k chunk retrieval 
+5. **LLM** — gpt-4o-mini for answer generation
+6. **Interface** — Streamlit chat UI 
 
 ---
 
@@ -56,11 +56,10 @@ Main components:
 | Technology | Role |
 |------------|------|
 | Python | Main programming language |
-| spaCy | NLP preprocessing |
 | LangChain | RAG pipeline orchestration |
-| Sentence Transformers | Text embeddings |
-| FAISS / ChromaDB | Vector database |
-| HuggingFace Transformers | Pre-trained models |
+| OpenAI text-embedding-3-large| Text embeddings |
+| FAISS| Vector database |
+| GPT-4o-mini | Pre-trained models |
 | Streamlit | User interface |
 
 
