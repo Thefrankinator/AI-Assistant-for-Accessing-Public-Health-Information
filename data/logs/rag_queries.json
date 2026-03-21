@@ -818,5 +818,1071 @@
                 }
             ]
         ]
+    },
+    {
+        "timestamp": "2026-03-21T08:48:13.168262",
+        "question": "c'est quoi le REMED  au maroc",
+        "answer": "",
+        "answered": false,
+        "answer_length": 0,
+        "metadata": [
+            [
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 1
+                },
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 34
+                },
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 33
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-21T08:48:18.809491",
+        "question": "c'est quoi le REMED  au maroc",
+        "answer": "Le REMED au Maroc fait référence au régime de l’assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale. Cette assurance est régie par la loi n° 98-15 promulguée par le Dahir n° 1-17-15 du 23 juin 2017. Ce régime vise à garantir la couverture médicale de base aux travailleurs indépendants et professionnels non salariés, leur assurant ainsi une protection sociale en matière de santé. \n\nSi vous souhaitez plus d'informations sur les modalités, les bénéficiaires, ou les démarches liées au REMED, n'hésitez pas à me le demander.",
+        "answered": true,
+        "answer_length": 642,
+        "metadata": [
+            [
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 1
+                },
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 34
+                },
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 33
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-21T08:54:47.323951",
+        "question": "c'est quoi l'amo au maroc",
+        "answer": "\n\n---\n**Sources utilisees:**\n\n**1.** `Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale` | theme: assurance_maladie_independants | type: loi_reglementaire | annee: 2018 ",
+        "answered": true,
+        "answer_length": 326,
+        "metadata": [
+            [
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 1
+                },
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 2
+                },
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 5
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-21T09:13:47.851766",
+        "question": "c'est quoi l'amo pour les etudiants",
+        "answer": "\n\n---\n**Sources utilisées:**\n\n**1.** `Fiches Descriptives des maladies infectieuses en milieu scolaire` | theme: maladies_infectieuses_milieu_scolaire | type: guide_recommandations | annee: 2023 ",
+        "answered": true,
+        "answer_length": 195,
+        "metadata": [
+            [
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 1
+                },
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 12
+                },
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 5
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-21T09:19:39.412763",
+        "question": "quel vaccin faire pour les enfants de 5 ans",
+        "answer": "\n\n---\n**Sources utilisées:**\n\n**1.** `Calendrier Vaccinal 2025` | theme: vaccination | type: guide_recommandations | annee: 2025 \n**2.** `Guide Marocain de Vaccinologie` | theme: vaccinologie | type: guide_recommandations | annee: 2023 ",
+        "answered": true,
+        "answer_length": 236,
+        "metadata": [
+            [
+                {
+                    "source": "Calendrier Vaccinal 2025",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2025,
+                    "theme": "vaccination",
+                    "region": "national",
+                    "chunk_index": 16
+                },
+                {
+                    "source": "Calendrier Vaccinal 2025",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2025,
+                    "theme": "vaccination",
+                    "region": "national",
+                    "chunk_index": 2
+                },
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 72
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-21T09:22:01.689132",
+        "question": "quel vaccin faire pour un enfant de 5 ans",
+        "answer": "",
+        "answered": false,
+        "answer_length": 0,
+        "metadata": [
+            [
+                {
+                    "source": "Calendrier Vaccinal 2025",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2025,
+                    "theme": "vaccination",
+                    "region": "national",
+                    "chunk_index": 16
+                },
+                {
+                    "source": "Calendrier Vaccinal 2025",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2025,
+                    "theme": "vaccination",
+                    "region": "national",
+                    "chunk_index": 2
+                },
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 72
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-21T09:22:04.102358",
+        "question": "quel vaccin faire pour un enfant de 5 ans",
+        "answer": "Pour un enfant de 5 ans au Maroc, les vaccinations recommandées sont notamment :\n\n- Vaccin DTCe, VPOb ou VPI ou DTCaVPI (Diphtérie, Tétanos, Coqueluche, Poliomyélite) en rappel.\n- Vaccination contre la grippe saisonnière en primo-vaccination (2 doses à 1 mois d’intervalle) jusqu’à l’âge de 9 ans.\n- Vaccin méningococcique (selon recommandations spécifiques).\n\nCes rappels sont généralement administrés vers l'âge de 5-6 ans.\n\nIl est important de vérifier avec votre centre de santé local pour le calendrier précis et les vaccins disponibles.",
+        "answered": true,
+        "answer_length": 542,
+        "metadata": [
+            [
+                {
+                    "source": "Calendrier Vaccinal 2025",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2025,
+                    "theme": "vaccination",
+                    "region": "national",
+                    "chunk_index": 16
+                },
+                {
+                    "source": "Calendrier Vaccinal 2025",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2025,
+                    "theme": "vaccination",
+                    "region": "national",
+                    "chunk_index": 2
+                },
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 72
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-21T09:23:18.798749",
+        "question": "ca coute combien",
+        "answer": "",
+        "answered": false,
+        "answer_length": 0,
+        "metadata": [
+            [
+                {
+                    "source": "L’hépatite A au Maroc : Aspects épidémiologiques, facteurs de risque et prévention",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2017,
+                    "theme": "hepatite_A",
+                    "region": "national",
+                    "chunk_index": 16
+                },
+                {
+                    "source": "L’hépatite A au Maroc : Aspects épidémiologiques, facteurs de risque et prévention",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2017,
+                    "theme": "hepatite_A",
+                    "region": "national",
+                    "chunk_index": 15
+                },
+                {
+                    "source": "L’hépatite A au Maroc : Aspects épidémiologiques, facteurs de risque et prévention",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2017,
+                    "theme": "hepatite_A",
+                    "region": "national",
+                    "chunk_index": 14
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-21T09:23:20.872866",
+        "question": "ca coute combien",
+        "answer": "Je ne trouve pas cette information précise sur le coût des vaccins pour un enfant de 5 ans au Maroc dans les documents disponibles. \n\nCependant, pour donner une idée, le vaccin contre l'hépatite A coûte entre 200 et 268 dirhams la dose. Les coûts des autres vaccins peuvent varier selon le type de vaccin, la clinique, et le secteur (public ou privé).\n\nPour obtenir un tarif exact, je vous recommande de contacter directement un centre de santé ou une clinique privée au Maroc.",
+        "answered": true,
+        "answer_length": 477,
+        "metadata": [
+            [
+                {
+                    "source": "L’hépatite A au Maroc : Aspects épidémiologiques, facteurs de risque et prévention",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2017,
+                    "theme": "hepatite_A",
+                    "region": "national",
+                    "chunk_index": 16
+                },
+                {
+                    "source": "L’hépatite A au Maroc : Aspects épidémiologiques, facteurs de risque et prévention",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2017,
+                    "theme": "hepatite_A",
+                    "region": "national",
+                    "chunk_index": 15
+                },
+                {
+                    "source": "L’hépatite A au Maroc : Aspects épidémiologiques, facteurs de risque et prévention",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2017,
+                    "theme": "hepatite_A",
+                    "region": "national",
+                    "chunk_index": 14
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-21T09:23:53.706872",
+        "question": "c'est quoi l'amo",
+        "answer": "",
+        "answered": false,
+        "answer_length": 0,
+        "metadata": [
+            [
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 7
+                },
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 34
+                },
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 75
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-21T09:23:55.564857",
+        "question": "c'est quoi l'amo",
+        "answer": "Je ne trouve pas d'information spécifique sur l'AMO dans les documents disponibles. Pourriez-vous préciser le contexte ou ce à quoi se réfère \"AMO\" afin que je puisse vous aider au mieux ?",
+        "answered": true,
+        "answer_length": 188,
+        "metadata": [
+            [
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 7
+                },
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 34
+                },
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 75
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-21T09:24:14.703535",
+        "question": "l'amo pour les etudiants au maroc",
+        "answer": "",
+        "answered": false,
+        "answer_length": 0,
+        "metadata": [
+            [
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 1
+                },
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 2
+                },
+                {
+                    "source": "L’hépatite A au Maroc : Aspects épidémiologiques, facteurs de risque et prévention",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2017,
+                    "theme": "hepatite_A",
+                    "region": "national",
+                    "chunk_index": 14
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-21T09:24:17.527302",
+        "question": "l'amo pour les etudiants au maroc",
+        "answer": "L'AMO (Assurance Maladie Obligatoire) au Maroc est un régime d'assurance maladie de base obligatoire. Selon la loi n° 98-15 promulguée en juin 2017, l'AMO concerne les professionnels, les travailleurs indépendants, et les personnes non salariées exerçant une activité libérale.\n\nCependant, les documents disponibles ne donnent pas de détail spécifique sur l'AMO pour les étudiants. \n\nEn général, pour les étudiants, il existe souvent des régimes ou des assurances spécifiques pour la couverture santé, il est donc conseillé de se renseigner auprès des universités, des administrations de santé ou des organismes de sécurité sociale au Maroc pour connaître les modalités exactes d'assurance maladie pour les étudiants.",
+        "answered": true,
+        "answer_length": 717,
+        "metadata": [
+            [
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 1
+                },
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 2
+                },
+                {
+                    "source": "L’hépatite A au Maroc : Aspects épidémiologiques, facteurs de risque et prévention",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2017,
+                    "theme": "hepatite_A",
+                    "region": "national",
+                    "chunk_index": 14
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-21T09:26:44.008346",
+        "question": "c'est quoi l'amo pour les etudiants",
+        "answer": "\n\n---\n**Sources utilisées:**\n\n**1.** `Fiches Descriptives des maladies infectieuses en milieu scolaire` | theme: maladies_infectieuses_milieu_scolaire | type: guide_recommandations | annee: 2023 ",
+        "answered": true,
+        "answer_length": 195,
+        "metadata": [
+            [
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 1
+                },
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 12
+                },
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 5
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-21T09:36:49.580359",
+        "question": "c'est quoi l'amo pour les etudiants",
+        "answer": "",
+        "answered": false,
+        "answer_length": 0,
+        "metadata": [
+            [
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 1
+                },
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 12
+                },
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 5
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-21T09:36:52.853247",
+        "question": "c'est quoi l'amo pour les etudiants",
+        "answer": "L'AMO (Assurance Maladie Obligatoire) pour les étudiants au Maroc est un régime qui oblige chaque assuré à verser des cotisations avant de pouvoir bénéficier de la prise en charge des frais de soins et du remboursement des frais médicaux. Il existe une période de stage de six mois à partir de la date d'immatriculation durant laquelle l'assuré doit cotiser pour ouvrir ses droits. Cependant, cette période de stage peut être dispensée si l'assuré dispose déjà d'une couverture maladie au moment de son immatriculation, ou s'il change de régime d'assurance maladie obligatoire.\n\nEn résumé, l'AMO pour les étudiants permet de garantir une couverture santé en prenant en charge les soins médicaux, sous condition de cotisation préalable et dans le cadre des règles du régime obligatoire. Si vous souhaitez plus de détails spécifiques ou des informations sur les modalités d'adhésion et les prestations, n'hésitez pas à demander.\n\n---\n**Sources utilisées:**\n\n**1.** `Fiches Descriptives des maladies infectieuses en milieu scolaire` | theme: maladies_infectieuses_milieu_scolaire | type: guide_recommandations | annee: 2023\n",
+        "answered": true,
+        "answer_length": 1121,
+        "metadata": [
+            [
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 1
+                },
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 12
+                },
+                {
+                    "source": "Fiches Descriptives des maladies infectieuses en milieu scolaire",
+                    "institution": "Comité d'experts marocains (SOMIPEV / Ministère de la Santé)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "maladies_infectieuses_milieu_scolaire",
+                    "region": "national",
+                    "chunk_index": 5
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-21T09:39:19.551956",
+        "question": "est ce que elle doit etre payé chaque année",
+        "answer": "L'AMO (Assurance Maladie Obligatoire) pour les étudiants au Maroc est un régime qui oblige chaque assuré à verser des cotisations avant de pouvoir bénéficier de la prise en charge des frais de soins et du remboursement des frais médicaux. Il existe une période de stage de six mois à partir de la date d'immatriculation durant laquelle l'assuré doit cotiser pour ouvrir ses droits. Cependant, cette période de stage peut être dispensée si l'assuré dispose déjà d'une couverture maladie au moment de son immatriculation, ou s'il change de régime d'assurance maladie obligatoire.\n\nEn résumé, l'AMO pour les étudiants permet de garantir une couverture santé en prenant en charge les soins médicaux, sous condition de cotisation préalable et dans le cadre des règles du régime obligatoire. Si vous souhaitez plus de détails spécifiques ou des informations sur les modalités d'adhésion et les prestations, n'hésitez pas à demander.\n\n---\n**Sources utilisées:**\n\n**1.** `Fiches Descriptives des maladies infectieuses en milieu scolaire` | theme: maladies_infectieuses_milieu_scolaire | type: guide_recommandations | annee: 2023\n\n---\n**Sources utilisées:**\n\n**1.** `Guide Marocain de Vaccinologie` | theme: vaccinologie | type: guide_recommandations | annee: 2023\n\n**2.** `Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale` | theme: assurance_maladie_independants | type: loi_reglementaire | annee: 2018\n",
+        "answered": true,
+        "answer_length": 1553,
+        "metadata": [
+            [
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 82
+                },
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 13
+                },
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 28
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-21T09:53:21.685677",
+        "question": "c'est quoi l'amo pour les etudiants au maroc d'apres la loi\n",
+        "answer": "",
+        "answered": false,
+        "answer_length": 0,
+        "metadata": [
+            [
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 1
+                },
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 2
+                },
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 38
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-21T09:53:24.867785",
+        "question": "c'est quoi l'amo pour les etudiants au maroc d'apres la loi\n",
+        "answer": "D'après la loi marocaine, l'Assurance Maladie Obligatoire (AMO) est régie par la loi n° 98-15, promulguée le 23 juin 2017 (Dahir n° 1-17-15). Cette loi fixe les règles du régime de l'AMO pour les professionnels, travailleurs indépendants, et personnes non salariées exerçant une activité libérale.\n\nCependant, concernant spécifiquement les étudiants, ces documents ne précisent pas les modalités particulières de l'AMO pour eux.\n\nSi vous souhaitez, je peux chercher des informations plus précises ou complémentaires sur l'AMO des étudiants au Maroc. Voulez-vous ?",
+        "answered": true,
+        "answer_length": 563,
+        "metadata": [
+            [
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 1
+                },
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 2
+                },
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 38
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-21T09:54:24.615228",
+        "question": "Qu'est ce qui pourrait m'arriver si je ne paie pas mon amo",
+        "answer": "",
+        "answered": false,
+        "answer_length": 0,
+        "metadata": [
+            [
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 28
+                },
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 32
+                },
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 35
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-21T09:54:29.461217",
+        "question": "Qu'est ce qui pourrait m'arriver si je ne paie pas mon amo",
+        "answer": "Si vous ne payez pas votre AMO (Assurance Maladie Obligatoire) au Maroc, plusieurs sanctions peuvent s'appliquer selon la loi :\n\n- Vous risquez une amende de 200 à 2000 dirhams pour chaque cotisation non versée dans les délais légaux.\n- En cas de non-demande d'immatriculation auprès de la Caisse nationale de sécurité sociale dans les délais, l'amende peut aller de 1000 à 5000 dirhams.\n- Les organismes responsables peuvent aussi être sanctionnés s'ils ne communiquent pas les informations nécessaires ou refusent de coopérer, avec des amendes allant jusqu'à 50 000 dirhams et des astreintes journalières.\n- En cas de prélèvement non effectué par l'organisme gestionnaire, celui-ci doit verser les cotisations non prélevées avec majorations de retard.\n\nIl est donc important de respecter vos obligations de paiement pour éviter ces sanctions.",
+        "answered": true,
+        "answer_length": 844,
+        "metadata": [
+            [
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 28
+                },
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 32
+                },
+                {
+                    "source": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale",
+                    "institution": "Secrétariat Général du Gouvernement (Bulletin Officiel)",
+                    "type": "loi_reglementaire",
+                    "langue": "fr",
+                    "annee": 2018,
+                    "theme": "assurance_maladie_independants",
+                    "region": "national",
+                    "chunk_index": 35
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-21T10:16:04.653540",
+        "question": "qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq",
+        "answer": "Je ne trouve pas cette information dans les documents disponibles.",
+        "answered": true,
+        "answer_length": 66,
+        "metadata": [
+            [
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 75
+                },
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 17
+                },
+                {
+                    "source": "Guide Marocain de Vaccinologie",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2023,
+                    "theme": "vaccinologie",
+                    "region": "national",
+                    "chunk_index": 92
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-21T10:21:37.164551",
+        "question": "Quelles institutions sont responsables du Programme National d Immunisation au Maroc ?",
+        "answer": "",
+        "answered": false,
+        "answer_length": 0,
+        "metadata": [
+            [
+                {
+                    "source": "Calendrier Vaccinal 2025",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2025,
+                    "theme": "vaccination",
+                    "region": "national",
+                    "chunk_index": 3
+                },
+                {
+                    "source": "Calendrier Vaccinal 2025",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2025,
+                    "theme": "vaccination",
+                    "region": "national",
+                    "chunk_index": 2
+                },
+                {
+                    "source": "L’hépatite A au Maroc : Aspects épidémiologiques, facteurs de risque et prévention",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2017,
+                    "theme": "hepatite_A",
+                    "region": "national",
+                    "chunk_index": 14
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-21T10:21:39.557714",
+        "question": "Quelles institutions sont responsables du Programme National d Immunisation au Maroc ?",
+        "answer": "Les institutions responsables du Programme National d'Immunisation (PNI) au Maroc sont principalement deux :\n\n1. Le Programme National d’Immunisation (PNI) lui-même, qui vaccine environ 95% des enfants au niveau des dispensaires et des centres de santé, où les vaccins et les prestations vaccinales sont gratuites.\n\n2. Le secteur des pédiatres libéraux, qui complète le PNI en vaccinant environ 3% des enfants et propose en plus certaines vaccinations complémentaires non pratiquées dans le PNI.\n\nCes deux entités collaborent pour assurer la vaccination des enfants conformément au calendrier vaccinal national, qui évolue en fonction des priorités de santé publique, de l'épidémiologie locale, de l'arrivée de nouveaux vaccins et des ressources financières disponibles.",
+        "answered": true,
+        "answer_length": 770,
+        "metadata": [
+            [
+                {
+                    "source": "Calendrier Vaccinal 2025",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2025,
+                    "theme": "vaccination",
+                    "region": "national",
+                    "chunk_index": 3
+                },
+                {
+                    "source": "Calendrier Vaccinal 2025",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2025,
+                    "theme": "vaccination",
+                    "region": "national",
+                    "chunk_index": 2
+                },
+                {
+                    "source": "L’hépatite A au Maroc : Aspects épidémiologiques, facteurs de risque et prévention",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2017,
+                    "theme": "hepatite_A",
+                    "region": "national",
+                    "chunk_index": 14
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-21T10:22:12.104841",
+        "question": "What are the best vaccines for children in Morocco please answer in English",
+        "answer": "",
+        "answered": false,
+        "answer_length": 0,
+        "metadata": [
+            [
+                {
+                    "source": "L’hépatite A au Maroc : Aspects épidémiologiques, facteurs de risque et prévention",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2017,
+                    "theme": "hepatite_A",
+                    "region": "national",
+                    "chunk_index": 14
+                },
+                {
+                    "source": "Calendrier Vaccinal 2025",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2025,
+                    "theme": "vaccination",
+                    "region": "national",
+                    "chunk_index": 19
+                },
+                {
+                    "source": "Calendrier Vaccinal 2025",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2025,
+                    "theme": "vaccination",
+                    "region": "national",
+                    "chunk_index": 16
+                }
+            ]
+        ]
+    },
+    {
+        "timestamp": "2026-03-21T10:22:15.355763",
+        "question": "What are the best vaccines for children in Morocco please answer in English",
+        "answer": "The best vaccines for children in Morocco include:\n\n1. Vaccines in the National Immunization Program (PNI) which cover the main childhood diseases and have a high vaccination coverage.\n\n2. Conjugate and protein vaccines against meningococcus, particularly vaccines against meningococcal groups ACYW135, which are effective before the age of 2 and used for targeted vaccination such as contact cases or travelers to high-risk areas.\n\n3. The hepatitis A vaccine, recommended systematically from the age of 1 year, is important for prevention as Morocco has intermediate to high endemicity for hepatitis A.\n\nThese vaccines are part of the efforts to protect children against infectious diseases prevalent in Morocco, considering local epidemiology, cost, and available resources.",
+        "answered": true,
+        "answer_length": 776,
+        "metadata": [
+            [
+                {
+                    "source": "L’hépatite A au Maroc : Aspects épidémiologiques, facteurs de risque et prévention",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2017,
+                    "theme": "hepatite_A",
+                    "region": "national",
+                    "chunk_index": 14
+                },
+                {
+                    "source": "Calendrier Vaccinal 2025",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2025,
+                    "theme": "vaccination",
+                    "region": "national",
+                    "chunk_index": 19
+                },
+                {
+                    "source": "Calendrier Vaccinal 2025",
+                    "institution": "Société Marocaine d'Infectiologie et de Vaccinologie (SOMIPEV)",
+                    "type": "guide_recommandations",
+                    "langue": "fr",
+                    "annee": 2025,
+                    "theme": "vaccination",
+                    "region": "national",
+                    "chunk_index": 16
+                }
+            ]
+        ]
     }
 ]

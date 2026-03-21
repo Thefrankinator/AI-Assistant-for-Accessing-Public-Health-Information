@@ -36,7 +36,7 @@ with st.sidebar:
 
 
     
-    if st.button(" Réinitialiser la conversation", use_container_width=True):
+    if st.button(" Réinitialiser", use_container_width=True):
         st.session_state.messages  = []
         st.session_state.thread_id = str(uuid.uuid4())
         st.rerun()
@@ -62,11 +62,11 @@ if prompt := st.chat_input("Posez votre question..."):
 
     with st.chat_message("assistant"):
         with st.spinner("Recherche en cours..."):
-            result = invoke_agent(
+            answer = invoke_agent(
                 question=prompt,
                 thread_id=st.session_state.thread_id )
-        st.markdown(result['messages'][-1].content)
+        st.markdown(answer)
 
     st.session_state.messages.append({
         "role":    "assistant",
-        "content": result['messages'][-1].content})
+        "content": answer})
